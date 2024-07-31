@@ -5289,7 +5289,7 @@
          "parentModule": "egov-hrms",
          "displayName": "Employee Create",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-hrms",
          "code": "null",
          "path": ""
@@ -5301,7 +5301,7 @@
          "parentModule": "egov-hrms",
          "displayName": "Employee Update",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-hrms",
          "code": "null",
          "path": ""
