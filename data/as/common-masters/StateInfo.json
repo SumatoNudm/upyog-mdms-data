@@ -1,3 +1,4 @@
+
 {
   "tenantId": "as",
   "moduleName": "common-masters",
@@ -6,9 +7,9 @@
       "name": "Assam",
       "code": "as",
       "qrCodeURL":"https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
-      "bannerUrl": "https://www.fabhotels.com/blog/wp-content/uploads/2019/10/Assam-Tourism_600.jpg",
-      "logoUrl": "",
-      "logoUrlWhite": "",
+      "bannerUrl": "https://upyog-assets.s3.ap-south-1.amazonaws.com/bannerImage.png",
+      "logoUrl": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
+      "logoUrlWhite": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
       "statelogo":"https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
       "hasLocalisation": true,
       "defaultUrl": {
@@ -16,10 +17,6 @@
         "employee": "/user/login"
       },
       "languages": [
-        {
-          "label": "অসমীয়া",
-          "value": "as_IN"
-        },
         {
           "label": "ENGLISH",
           "value": "en_IN"
@@ -81,10 +78,6 @@
         {
           "label": "rainmaker-fsm",
           "value": "rainmaker-fsm"
-        },
-        {
-          "label": "rainmaker-as",
-          "value": "rainmaker-as"
         }
       ]
     }
