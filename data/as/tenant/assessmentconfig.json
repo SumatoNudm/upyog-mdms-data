@@ -1,0 +1,18 @@
+{
+  "tenantId": "as",
+  "moduleName": "tenant",
+  "assessmentconfig": [
+    {
+      "tenant": "as.guwahati",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    },
+     {
+      "tenant": "as.hojai",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    }
+  ]
+}

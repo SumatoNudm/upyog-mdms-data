@@ -1,0 +1,8 @@
+{
+    "tenantId": "as",
+    "moduleName": "tenant",
+    "reassessmentconfig":[ {
+        "tenant": ["as.guwahati"],
+        "financialyear": "2021-22"
+    }]
+}

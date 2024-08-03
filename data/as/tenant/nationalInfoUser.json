@@ -1,0 +1,48 @@
+{
+  "tenantId": "as",
+  "moduleName": "tenant",
+  "nationalInfoUser": [
+    {
+      "stateCode": "Assam"
+    },
+	 {
+      "stateCode": "Uttarakhand"
+    },
+	{
+      "stateCode": "Rajasthan"
+    },
+	{
+      "stateCode": "Chandigarh"
+    },
+	{
+      "stateCode": "Karnataka"
+    },
+	{
+      "stateCode": "Goa"
+    },
+	{
+      "stateCode": "Andhra Pradesh"
+    },
+	{
+      "stateCode": "Madhya Pradesh"
+    },
+	{
+      "stateCode": "Tamil Nadu"
+    },
+	{
+      "stateCode": "Telangana"
+    },
+	{
+      "stateCode": "Chattisgarh"
+    },
+	{
+      "stateCode": "Maharashtra"
+    },
+	{
+      "stateCode": "Jharkhand"
+    },
+	{
+      "stateCode": "Tripura"
+    }
+]
+}

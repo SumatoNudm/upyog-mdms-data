@@ -1,16 +1,16 @@
 {
-	"tenantId": "as.guwahati",
+	"tenantId": "pg.citya",
 	"moduleName": "BillingService",
 	"GLCode": [
 	{
 		"code": "BIRTH_CERT",
 		"glcode": null,
-		"cb": "as.guwahati"
+		"cb": "pg.citya"
 	},
 	{
 		"code": "DEATH_CERT",
 		"glcode": null,
-		"cb": "as.guwahati"
+		"cb": "pg.citya"
 	}
 	]
 }

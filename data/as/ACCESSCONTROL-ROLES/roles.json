@@ -657,21 +657,6 @@
       "name": "Sewerage Report Viewer",
       "description": "Sewerage Connection User that can view reports"
     },
-	{
-      "code": "PT_REPORT_VIEWER",
-      "name": "PT Report Viewer",
-      "description": "PT User that can view tabular reports"
-    },
-	{
-      "code": "PGR_REPORT_VIEWER",
-      "name": "PGR Report Viewer",
-      "description": "PGR User that can view tabular reports"
-    },
-	{
-      "code": "MCOLLECT_REPORT_VIEWER",
-      "name": "MCollect Report Viewer",
-      "description": "MCollect User that can view tabular reports"
-    },
     {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "Internal Microservice Role",
@@ -711,31 +696,6 @@
       "code": "SYS_INTEGRATOR_GIS",
       "name": "System Integrator GIS",
       "description": "Role for allowing system integration of GIS app with UPYOG"
-    },
-    {
-      "code": "PTR_CEMP",
-      "name": "Pet Counter Employee",
-      "description": "Counter Employee in Pet Application who files application on behalf of the citizen"
-    },
-    {
-      "code": "PTR_APPROVER",
-      "name": "Pet Approver",
-      "description": "Pet Application Approver"
-    },
-    {
-      "code": "PTR_VERIFIER",
-      "name": "Pet Document Verifier",
-      "description": "Pet Application Document Verifier"
-    },
-    {
-      "code": "MDMS_ADMIN",
-      "name": "MDMS ADMIN",
-      "description": "MDMS User that can create and search schema"
-    },
-    {
-      "code": "LOC_ADMIN",
-      "name": "Localisation admin",
-      "description": "LOC_ADMIN"
     }
   ]
 }
