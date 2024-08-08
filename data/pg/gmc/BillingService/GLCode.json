@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.gmc",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.gmc"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.gmc"
+        }
+    ]
+    
+}
