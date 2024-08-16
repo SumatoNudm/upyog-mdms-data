@@ -175,6 +175,12 @@
       "description": "Commissioner",
       "code": "COMM",
       "active": true
+    },
+    {
+      "name": "EO",
+      "description": "Executive Officer",
+      "code": "EO",
+      "active": true
     }
   ]
 }
