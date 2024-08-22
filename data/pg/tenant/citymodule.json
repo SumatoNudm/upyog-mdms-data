@@ -429,6 +429,9 @@
         },
         {
           "code": "pg.citye"
+        },
+        {
+          "code":"pg.gmc"
         }
       ]
     },
@@ -545,6 +548,9 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code":"pg.gmc"
         }
       ]
     },
