@@ -3405,6 +3405,22 @@
          "path": "Finance.Transactions.Bills Accounting.Expense Bill"
       },
       {
+         "id": 17770,
+         "name": "Finance Approve Pending Bils",
+         "url": "url",
+         "displayName": "Approve Bills",
+         "orderNumber": 2,
+         "parentModule": "EGF",
+         "enabled": true,
+         "serviceCode": "FinanceBill",
+         "code": "null",
+         "path": "Finance.Transactions.Bills Accounting.Bill Approve",
+         "navigationURL": "services/EGF/inbox",
+         "leftIcon": "editor:insert-chart",
+         "rightIcon": "",
+         "queryParams": ""
+      },
+      {
          "id": 1610,
          "name": "Generate PJV",
          "url": "/services/EGF/voucher/billVoucher-newForm.action",
