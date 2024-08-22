@@ -3408,7 +3408,7 @@
          "id": 17770,
          "name": "Finance Approve Pending Bills",
          "navigationURL": "services/EGF/inbox",
-         "url": "digit-ui-card",
+         "url": "services/EGF/inbox",
          "parentModule": "EGF",
          "displayName": "Approve Bills",
          "orderNumber": 1,
@@ -3416,8 +3416,8 @@
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "",
-         "path1":"Finance.Transactions.Bills Accounting.Bill Approves"
+         "path": "Finance.Transactions.Bills Accounting.Bill Approve",
+         "path1":"Finance.Transactions.Bills Accounting.Bill Approve"
       },
       {
          "id": 1610,
