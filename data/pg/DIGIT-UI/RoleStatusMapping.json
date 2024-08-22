@@ -71,6 +71,12 @@
             ],
             "zeroCheck": true,
             "fixed": false
+        },
+        {
+            "userRole":"EGF_BILL_APPROVER",
+            "statuses" : [
+                "PENDING_APPROVAL"
+            ]
         }
     ]
 }
