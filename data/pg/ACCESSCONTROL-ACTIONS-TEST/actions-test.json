@@ -2601,7 +2601,7 @@
          "displayName": "Bill Update",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bill",
          "code": "null",
          "path": "Financials.Transactions.Update Bill"
@@ -2613,7 +2613,7 @@
          "displayName": "Bill Search",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bill",
          "code": "null",
          "path": "Financials.Transactions.Search Bill"
