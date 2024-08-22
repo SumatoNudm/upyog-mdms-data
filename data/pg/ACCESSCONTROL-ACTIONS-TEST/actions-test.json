@@ -3406,19 +3406,17 @@
       },
       {
          "id": 17770,
-         "name": "Finance Approve Pending Bils",
+         "name": "Finance Approve Pending Bills",
+         "navigationURL": "services/EGF/inbox",
          "url": "url",
-         "displayName": "Approve Bills",
-         "orderNumber": 2,
          "parentModule": "EGF",
+         "displayName": "Approve Bills",
+         "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceBill",
          "code": "null",
-         "path": "Finance.Transactions.Bills Accounting.Bill Approve",
-         "navigationURL": "services/EGF/inbox",
          "leftIcon": "editor:insert-chart",
-         "rightIcon": "",
-         "queryParams": ""
+         "path": "Finance.Transactions.Bills Accounting.Bill Approve"
       },
       {
          "id": 1610,
