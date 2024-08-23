@@ -2990,7 +2990,7 @@
          "serviceCode": "PGR",
          "code": "null",
          "path": "Home",
-         "navigationURL": "employee/inbox",
+         "navigationURL": "inbox",
          "leftIcon": "action:home",
          "rightIcon": ""
       },
