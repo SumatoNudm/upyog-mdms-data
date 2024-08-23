@@ -3416,7 +3416,7 @@
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Inbox",
+         "path": "Finance.Inbox.Bills Accounting.Bill Approve",
          "path1":"Finance.Transactions.Bills Accounting.Bill Approve"
       },
       {
