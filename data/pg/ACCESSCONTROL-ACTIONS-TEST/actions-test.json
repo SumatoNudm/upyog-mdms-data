@@ -3416,8 +3416,8 @@
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bill Accounting.Bill Approve",
-         "path1":"Finance.Transactions.Bill Accounting.Bill Approve"
+         "path": "Finance.Transactions.Bills Accounting.Bill Approve",
+         "path1":"Finance.Transactions.Bills Accounting.Bill Approve"
       },
       {
          "id": 1610,
