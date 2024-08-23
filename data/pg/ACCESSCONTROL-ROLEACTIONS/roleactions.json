@@ -26779,6 +26779,12 @@
       "actionid": 17770,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_BILL_CREATOR",
+      "actionid": 17770,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
