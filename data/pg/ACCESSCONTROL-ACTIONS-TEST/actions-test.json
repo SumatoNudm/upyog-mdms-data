@@ -3407,7 +3407,7 @@
       {
          "id": 17770,
          "name": "Finance Approve Pending Bills",
-         "navigationURL": "services/EGF/expensebill/newform",
+         "navigationURL": "services/EGF/inbox",
          "url": "url",
          "parentModule": "EGF",
          "displayName": "Approve Bills",
