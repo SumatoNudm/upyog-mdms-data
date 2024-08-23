@@ -3411,7 +3411,7 @@
          "url": "services/EGF/inbox",
          "parentModule": "EGF",
          "displayName": "Approve Bills",
-         "orderNumber": 1,
+         "orderNumber": 6,
          "enabled": true,
          "serviceCode": "FinanceBill",
          "code": "null",
