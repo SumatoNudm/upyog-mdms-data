@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.dhubri",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.dhubri"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.dhubri"
+        }
+    ]
+    
+}

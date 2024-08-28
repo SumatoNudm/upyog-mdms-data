@@ -91,6 +91,18 @@
         },
         {
           "code": "pg.gmc"
+        },
+        {
+          "code":"pg.dibrugarh"
+        },
+        {
+          "code":"pg.bongaigaon"
+        },
+        {
+          "code":"pg.dhubri"
+        },
+        {
+          "code":"pg.nagaon"
         }
       ]
     },
@@ -432,6 +444,18 @@
         },
         {
           "code":"pg.gmc"
+        },
+        {
+          "code":"pg.dibrugarh"
+        },
+        {
+          "code":"pg.bongaigaon"
+        },
+        {
+          "code":"pg.dhubri"
+        },
+        {
+          "code":"pg.nagaon"
         }
       ]
     },

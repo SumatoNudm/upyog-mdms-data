@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.dibrugarh",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.dibrugarh"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.dibrugarh"
+        }
+    ]
+    
+}

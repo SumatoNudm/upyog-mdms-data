@@ -235,6 +235,138 @@
       },
       "address": "GMC Municipal Corporation",
       "contactNumber": "001-2345876"
+    },
+    {
+      "code": "pg.dibrugarh",
+      "name": "Dibrugarh",
+      "description": "Dibrugarh",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dibrugarh@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Dibrugarh",
+        "localName": null,
+        "districtCode": "Dibrugarh",
+        "districtName": null,
+        "districtTenantCode": "pg.dibrugarh",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "Dibrugarh Municipal Corporation",
+      "contactNumber": "001-2345876"
+    },
+    {
+      "code": "pg.bongaigaon",
+      "name": "Bongaigaon",
+      "description": "Bongaigaon",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "bongaigaon@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Bongaigaon",
+        "localName": null,
+        "districtCode": "Bongaigaon",
+        "districtName": null,
+        "districtTenantCode": "pg.bongaigaon",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "Bongaigaon Municipal Corporation",
+      "contactNumber": "001-2345876"
+    },
+    {
+      "code": "pg.dhubri",
+      "name": "Dhubri",
+      "description": "Dhubri",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dhubri@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Dhubri",
+        "localName": null,
+        "districtCode": "Dhubri",
+        "districtName": null,
+        "districtTenantCode": "pg.dhubri",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "Dhubri Municipal Corporation",
+      "contactNumber": "001-2345876"
+    },
+    {
+      "code": "pg.nagaon",
+      "name": "Nagaon",
+      "description": "Nagaon",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "nagaon@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Nagaon",
+        "localName": null,
+        "districtCode": "Nagaon",
+        "districtName": null,
+        "districtTenantCode": "pg.nagaon",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "Nagaon Municipal Corporation",
+      "contactNumber": "001-2345876"
     }
    ]
 }
