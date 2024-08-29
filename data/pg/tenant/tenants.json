@@ -205,8 +205,8 @@
     },
     {
       "code": "pg.gmc",
-      "name": "GMC",
-      "description": "GMC",
+      "name": "Guwahati",
+      "description": "Guwahati Municipal Corporation",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -219,9 +219,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "GMC",
+        "name": "Guwahati",
         "localName": null,
-        "districtCode": "GMC",
+        "districtCode": "Kamrup Metro",
         "districtName": null,
         "districtTenantCode": "pg.gmc",
         "regionName": null,
