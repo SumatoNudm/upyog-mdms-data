@@ -1,0 +1,18 @@
+{
+	"tenantId":"pg",
+	"moduleName":"common-masters",
+	"WorkflowStates": [
+		{
+			"state":"NEW",
+			"type":"EgBillregister",
+			"currentDesignation":"Accounts Officer,EO",
+			"nextDesignation":"Commissioner,Accountant,AO"
+		},
+		{
+			"state":"Rejected",
+			"type":"EgBillregister",
+			"currentDesignation":"Accounts Officer,EO",
+			"nextDesignation":"Commissioner,Accountant,AO"
+		}
+	]
+}
