@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "common-masters",
-  "Department": [
+  "Department-backup": [
     {
       "name": "Street Lights",
       "code": "DEPT_1",
