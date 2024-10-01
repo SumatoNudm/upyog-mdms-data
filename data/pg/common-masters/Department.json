@@ -4,7 +4,7 @@
   "Department": [
     {
       "name": "ULB",
-      "code": "ULB",
+      "code": "DEPT_ULB",
       "active": true
     }
   ]
