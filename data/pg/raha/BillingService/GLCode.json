@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.raha",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.raha"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.raha"
+        }
+    ]
+    
+}

@@ -651,8 +651,8 @@
       "city": {
         "name": "Raha",
         "localName": null,
-        "districtCode": "barpeta",
-        "districtName": "Barpeta",
+        "districtCode": "nagaon",
+        "districtName": "Nagaon",
         "districtTenantCode": "pg.raha",
         "regionName": null,
         "ulbGrade": "Municipal Board",
@@ -684,8 +684,8 @@
       "city": {
         "name": "Dhing",
         "localName": null,
-        "districtCode": "barpeta",
-        "districtName": "Barpeta",
+        "districtCode": "nagaon",
+        "districtName": "Nagaon",
         "districtTenantCode": "pg.dhing",
         "regionName": null,
         "ulbGrade": "Municipal Board",
@@ -717,8 +717,8 @@
       "city": {
         "name": "Nagaon",
         "localName": null,
-        "districtCode": "barpeta",
-        "districtName": "Barpeta",
+        "districtCode": "nagaon",
+        "districtName": "Nagaon",
         "districtTenantCode": "pg.nagaon",
         "regionName": null,
         "ulbGrade": "Municipal Board",
@@ -750,8 +750,8 @@
       "city": {
         "name": "Kampur",
         "localName": null,
-        "districtCode": "barpeta",
-        "districtName": "Barpeta",
+        "districtCode": "nagaon",
+        "districtName": "Nagaon",
         "districtTenantCode": "pg.kampur",
         "regionName": null,
         "ulbGrade": "Municipal Board",
