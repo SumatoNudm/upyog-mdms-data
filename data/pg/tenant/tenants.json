@@ -292,7 +292,7 @@
         "districtName": null,
         "districtTenantCode": "pg.bongaigaon",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Municipal Board",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
         "shapeFileLocation": null,
@@ -300,7 +300,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "Bongaigaon Municipal Corporation",
+      "address": "Bongaigaon Municipal Board",
       "contactNumber": "001-2345876"
     },
     {
@@ -325,7 +325,7 @@
         "districtName": null,
         "districtTenantCode": "pg.dhubri",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Municipal Board",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
         "shapeFileLocation": null,
@@ -333,7 +333,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "Dhubri Municipal Corporation",
+      "address": "Dhubri Municipal Board",
       "contactNumber": "001-2345876"
     },
     {
@@ -358,7 +358,7 @@
         "districtName": null,
         "districtTenantCode": "pg.nagaon",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Municipal Board",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
         "shapeFileLocation": null,
@@ -366,7 +366,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "Nagaon Municipal Corporation",
+      "address": "Nagaon Municipal Board",
       "contactNumber": "001-2345876"
     },
     {
@@ -391,7 +391,7 @@
         "districtName": null,
         "districtTenantCode": "pg.nalbari",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Municipal Board",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
         "shapeFileLocation": null,
@@ -399,7 +399,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "Nalbari Municipal Corporation",
+      "address": "Nalbari Municipal Board",
       "contactNumber": "001-2345876"
     },
     {
@@ -424,7 +424,7 @@
         "districtName": "Barpeta",
         "districtTenantCode": "pg.barpeta",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Municipal Board",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
         "shapeFileLocation": null,
@@ -432,7 +432,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "Barpeta Municipal Corporation",
+      "address": "Barpeta Municipal Board",
       "contactNumber": "001-2345876"
     },
     {
