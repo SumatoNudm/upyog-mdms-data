@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.kharupetia",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.kharupetia"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.kharupetia"
+        }
+    ]
+    
+}

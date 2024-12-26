@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.rangia",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.rangia"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.rangia"
+        }
+    ]
+    
+}

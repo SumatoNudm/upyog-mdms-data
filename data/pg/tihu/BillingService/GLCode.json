@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.tihu",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.tihu"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.tihu"
+        }
+    ]
+    
+}

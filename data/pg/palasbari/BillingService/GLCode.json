@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.palasbari",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.palasbari"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.palasbari"
+        }
+    ]
+    
+}
