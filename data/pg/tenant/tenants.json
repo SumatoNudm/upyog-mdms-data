@@ -850,45 +850,6 @@
       "contactNumber": "001-2345876"
   },
   {
-      "code": "pg.nalbari",
-      "name": "Nalbari",
-      "description": "Nalbari Municipal Board",
-      "pincode": [
-          143001,
-          143002,
-          143003,
-          143004,
-          143005
-      ],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "nalbari@gmail.com",
-      "OfficeTimings": {
-          "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-          "name": "Nalbari",
-          "localName": null,
-          "districtCode": "NALBARI",
-          "districtName": "Nalbari",
-          "districtTenantCode": "pg.nalbari",
-          "regionName": null,
-          "ulbGrade": "Municipal Board",
-          "longitude": null,
-          "latitude": null,
-          "shapeFileLocation": null,
-          "captcha": null,
-          "code": "nalbari",
-          "ddrName": "DDR A"
-      },
-      "address": "Nalbari",
-      "contactNumber": "001-2345876"
-  },
-  {
       "code": "pg.tihu",
       "name": "Tihu",
       "description": "Tihu Municipal Board",
@@ -925,84 +886,6 @@
           "ddrName": "DDR A"
       },
       "address": "Tihu",
-      "contactNumber": "001-2345876"
-  },
-  {
-      "code": "pg.pathsala",
-      "name": "Pathsala",
-      "description": "Pathsala Municipal Board",
-      "pincode": [
-          143001,
-          143002,
-          143003,
-          143004,
-          143005
-      ],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "pathsala@gmail.com",
-      "OfficeTimings": {
-          "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-          "name": "Pathsala",
-          "localName": null,
-          "districtCode": "BAJALI",
-          "districtName": "Bajali",
-          "districtTenantCode": "pg.pathsala",
-          "regionName": null,
-          "ulbGrade": "Municipal Board",
-          "longitude": null,
-          "latitude": null,
-          "shapeFileLocation": null,
-          "captcha": null,
-          "code": "pathsala",
-          "ddrName": "DDR A"
-      },
-      "address": "Pathsala",
-      "contactNumber": "001-2345876"
-  },
-  {
-      "code": "pg.patacharkuchi",
-      "name": "Patacharkuchi",
-      "description": "Patacharkuchi Municipal Board",
-      "pincode": [
-          143001,
-          143002,
-          143003,
-          143004,
-          143005
-      ],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "patacharkuchi@gmail.com",
-      "OfficeTimings": {
-          "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-          "name": "Patacharkuchi",
-          "localName": null,
-          "districtCode": "BAJALI",
-          "districtName": "Bajali",
-          "districtTenantCode": "pg.patacharkuchi",
-          "regionName": null,
-          "ulbGrade": "Municipal Board",
-          "longitude": null,
-          "latitude": null,
-          "shapeFileLocation": null,
-          "captcha": null,
-          "code": "patacharkuchi",
-          "ddrName": "DDR A"
-      },
-      "address": "Patacharkuchi",
       "contactNumber": "001-2345876"
   },
   {
@@ -1120,45 +1003,6 @@
           "ddrName": "DDR A"
       },
       "address": "Lakhipur Goalpara",
-      "contactNumber": "001-2345876"
-  },
-  {
-      "code": "pg.bongaigaon",
-      "name": "Bongaigaon",
-      "description": "Bongaigaon Municipal Board",
-      "pincode": [
-          143001,
-          143002,
-          143003,
-          143004,
-          143005
-      ],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "bongaigaon@gmail.com",
-      "OfficeTimings": {
-          "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-          "name": "Bongaigaon",
-          "localName": null,
-          "districtCode": "BONGAIGAON",
-          "districtName": "Bongaigaon",
-          "districtTenantCode": "pg.bongaigaon",
-          "regionName": null,
-          "ulbGrade": "Municipal Board",
-          "longitude": null,
-          "latitude": null,
-          "shapeFileLocation": null,
-          "captcha": null,
-          "code": "bongaigaon",
-          "ddrName": "DDR A"
-      },
-      "address": "Bongaigaon",
       "contactNumber": "001-2345876"
   },
   {
