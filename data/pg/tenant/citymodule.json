@@ -139,7 +139,20 @@
         },
         {
           "code":"pg.kampur"
-        }
+        },
+        {"code": "pg.rangia"},
+  {"code": "pg.northguwahati"},
+  {"code": "pg.palasbari"},
+  {"code": "pg.tihu"},
+  {"code": "pg.morigaon"},
+  {"code": "pg.goalpara"},
+  {"code": "pg.lakhipurgoalpara"},
+  {"code": "pg.abhayapuri"},
+  {"code": "pg.udalguri"},
+  {"code": "pg.tangla"},
+  {"code": "pg.mangaldoi"},
+  {"code": "pg.kharupetia"},
+  {"code": "pg.sipajhar"}
       ]
     },
     {
@@ -528,7 +541,20 @@
         },
         {
           "code":"pg.kampur"
-        }
+        },
+        {"code": "pg.rangia"},
+  {"code": "pg.northguwahati"},
+  {"code": "pg.palasbari"},
+  {"code": "pg.tihu"},
+  {"code": "pg.morigaon"},
+  {"code": "pg.goalpara"},
+  {"code": "pg.lakhipurgoalpara"},
+  {"code": "pg.abhayapuri"},
+  {"code": "pg.udalguri"},
+  {"code": "pg.tangla"},
+  {"code": "pg.mangaldoi"},
+  {"code": "pg.kharupetia"},
+  {"code": "pg.sipajhar"}
       ]
     },
     {
