@@ -181,6 +181,12 @@
       "description": "Executive Officer",
       "code": "EO",
       "active": true
+    },
+    {
+      "name": "Financial Management Officer",
+      "description": "Financial Management Officer",
+      "code": "FMO",
+      "active": true
     }
   ]
 }
