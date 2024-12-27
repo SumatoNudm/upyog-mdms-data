@@ -601,7 +601,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "pathsala",
+				"code": "UAT",
 				"ddrName": "DDR A"
 			},
 			"address": "Pathsala Municipal Board",
@@ -913,7 +913,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "northguwahati",
+				"code": "3",
 				"ddrName": "DDR A"
 			},
 			"address": "North Guwahati",
@@ -952,7 +952,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "palasbari",
+				"code": "2",
 				"ddrName": "DDR A"
 			},
 			"address": "Palashbari",
@@ -991,7 +991,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "tihu",
+				"code": "6",
 				"ddrName": "DDR A"
 			},
 			"address": "Tihu",
@@ -1030,7 +1030,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "morigaon",
+				"code": "27",
 				"ddrName": "DDR A"
 			},
 			"address": "Morigaon",
@@ -1069,7 +1069,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "goalpara",
+				"code": "23",
 				"ddrName": "DDR A"
 			},
 			"address": "Goalpara",
@@ -1108,7 +1108,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "lakhipurgoalpara",
+				"code": "24",
 				"ddrName": "DDR A"
 			},
 			"address": "Lakhipur Goalpara",
@@ -1147,7 +1147,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "abhayapuri",
+				"code": "26",
 				"ddrName": "DDR A"
 			},
 			"address": "Abhayapuri",
@@ -1186,7 +1186,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "udalguri",
+				"code": "97",
 				"ddrName": "DDR A"
 			},
 			"address": "Udalguri",
@@ -1225,7 +1225,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "tangla",
+				"code": "98",
 				"ddrName": "DDR A"
 			},
 			"address": "Tangla",
@@ -1264,7 +1264,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "mangaldoi",
+				"code": "14",
 				"ddrName": "DDR A"
 			},
 			"address": "Mangaldoi",
@@ -1303,7 +1303,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "kharupetia",
+				"code": "15",
 				"ddrName": "DDR A"
 			},
 			"address": "Kharupetia",
@@ -1342,7 +1342,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "sipajhar",
+				"code": "16",
 				"ddrName": "DDR A"
 			},
 			"address": "Sipajhar",
@@ -1381,7 +1381,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "UAT",
+				"code": "8",
 				"ddrName": "DDR A"
 			},
 			"address": "Pathsala Municipal Board",
