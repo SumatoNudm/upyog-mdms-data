@@ -1386,6 +1386,123 @@
 			},
 			"address": "Pathsala Municipal Board",
 			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.gohpur",
+			"name": "Gohpur",
+			"description": "Gohpur Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "gohpur@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Gohpur",
+				"localName": null,
+				"districtCode": "BISWANATH",
+				"districtName": "Biswanath",
+				"districtTenantCode": "pg.gohpur",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": 40,
+				"ddrName": "DDR A"
+			},
+			"address": "Gohpur",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.biswanathchariali",
+			"name": "Biswanath",
+			"description": "Biswanath Chariali Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "biswanathchariali@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Biswanath",
+				"localName": null,
+				"districtCode": "BISWANATH",
+				"districtName": "Biswanath",
+				"districtTenantCode": "pg.biswanathchariali",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": 41,
+				"ddrName": "DDR A"
+			},
+			"address": "Biswanath",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.sootea",
+			"name": "Sootea",
+			"description": "Sootea Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "sootea@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Sootea",
+				"localName": null,
+				"districtCode": "BISWANATH",
+				"districtName": "Biswanath",
+				"districtTenantCode": "pg.sootea",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": 42,
+				"ddrName": "DDR A"
+			},
+			"address": "Sootea",
+			"contactNumber": "001-2345876"
 		}
 	]
 }

@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.gohpur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.gohpur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.gohpur"
+        }
+    ]
+    
+}

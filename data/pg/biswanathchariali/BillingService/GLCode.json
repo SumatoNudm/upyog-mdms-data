@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.biswanathchariali",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.biswanathchariali"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.biswanathchariali"
+        }
+    ]
+    
+}
