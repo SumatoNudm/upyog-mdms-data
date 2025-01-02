@@ -1420,7 +1420,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": 40,
+				"code": "40",
 				"ddrName": "DDR A"
 			},
 			"address": "Gohpur",
@@ -1459,7 +1459,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": 41,
+				"code": "41",
 				"ddrName": "DDR A"
 			},
 			"address": "Biswanath",
@@ -1498,7 +1498,7 @@
 				"latitude": null,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": 42,
+				"code": "42",
 				"ddrName": "DDR A"
 			},
 			"address": "Sootea",
