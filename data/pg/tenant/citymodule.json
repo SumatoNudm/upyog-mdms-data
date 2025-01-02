@@ -180,6 +180,15 @@
 				},
 				{
 					"code": "pg.pathshala"
+				},
+				{
+					"code": "pg.gohpur"
+				},
+				{
+					"code": "pg.biswanathchariali"
+				},
+				{
+					"code": "pg.sootea"
 				}
 			]
 		},
@@ -611,6 +620,15 @@
 				},
 				{
 					"code": "pg.pathshala"
+				},
+				{
+					"code": "pg.gohpur"
+				},
+				{
+					"code": "pg.biswanathchariali"
+				},
+				{
+					"code": "pg.sootea"
 				}
 			]
 		},
