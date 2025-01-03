@@ -1503,6 +1503,162 @@
 			},
 			"address": "Sootea",
 			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.lanka",
+			"name": "Lanka",
+			"description": "Lanka Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "lanka@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Lanka",
+				"localName": null,
+				"districtCode": "HOJAI",
+				"districtName": "Hojai",
+				"districtTenantCode": "pg.lanka",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "32",
+				"ddrName": "DDR A"
+			},
+			"address": "Lanka",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.hojai",
+			"name": "Hojai",
+			"description": "Hojai Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "hojai@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Hojai",
+				"localName": null,
+				"districtCode": "HOJAI",
+				"districtName": "Hojai",
+				"districtTenantCode": "pg.hojai",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "33",
+				"ddrName": "DDR A"
+			},
+			"address": "Hojai",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.doboka",
+			"name": "Doboka",
+			"description": "Doboka Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "doboka@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Doboka",
+				"localName": null,
+				"districtCode": "HOJAI",
+				"districtName": "Hojai",
+				"districtTenantCode": "pg.doboka",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "34",
+				"ddrName": "DDR A"
+			},
+			"address": "Doboka",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.lumding",
+			"name": "Lumding",
+			"description": "Lumding Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "lumding@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Lumding",
+				"localName": null,
+				"districtCode": "HOJAI",
+				"districtName": "Hojai",
+				"districtTenantCode": "pg.lumding",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "35",
+				"ddrName": "DDR A"
+			},
+			"address": "Lumding",
+			"contactNumber": "001-2345876"
 		}
 	]
 }

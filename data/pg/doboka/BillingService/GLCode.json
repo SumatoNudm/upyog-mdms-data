@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.doboka",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.doboka"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.doboka"
+        }
+    ]
+    
+}

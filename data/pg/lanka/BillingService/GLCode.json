@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.lanka",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.lanka"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.lanka"
+        }
+    ]
+    
+}

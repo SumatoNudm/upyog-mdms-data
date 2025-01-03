@@ -189,6 +189,18 @@
 				},
 				{
 					"code": "pg.sootea"
+				},
+				{
+					"code": "pg.lanka"
+				},
+				{
+					"code": "pg.hojai"
+				},
+				{
+					"code": "pg.doboka"
+				},
+				{
+					"code": "pg.lumding"
 				}
 			]
 		},
@@ -629,6 +641,18 @@
 				},
 				{
 					"code": "pg.sootea"
+				},
+				{
+					"code": "pg.lanka"
+				},
+				{
+					"code": "pg.hojai"
+				},
+				{
+					"code": "pg.doboka"
+				},
+				{
+					"code": "pg.lumding"
 				}
 			]
 		},
