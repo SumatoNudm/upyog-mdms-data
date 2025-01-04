@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.gauripur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.gauripur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.gauripur"
+        }
+    ]
+    
+}

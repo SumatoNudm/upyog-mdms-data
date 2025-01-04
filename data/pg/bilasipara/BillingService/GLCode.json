@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.bilasipara",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.bilasipara"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.bilasipara"
+        }
+    ]
+    
+}

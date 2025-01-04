@@ -1659,6 +1659,318 @@
 			},
 			"address": "Lumding",
 			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.gauripur",
+			"name": "Gauripur",
+			"description": "Gauripur Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "gauripur@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Gauripur",
+				"localName": null,
+				"districtCode": "DHUBRI",
+				"districtName": "Dhubri",
+				"districtTenantCode": "pg.gauripur",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "18",
+				"ddrName": "DDR A"
+			},
+			"address": "Gauripur",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.bilasipara",
+			"name": "Bilasipara",
+			"description": "Bilasipara Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "bilasipara@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Bilasipara",
+				"localName": null,
+				"districtCode": "DHUBRI",
+				"districtName": "Dhubri",
+				"districtTenantCode": "pg.bilasipara",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "19",
+				"ddrName": "DDR A"
+			},
+			"address": "Bilasipara",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.chapar",
+			"name": "Chapar",
+			"description": "Chapar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "chapar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Chapar",
+				"localName": null,
+				"districtCode": "DHUBRI",
+				"districtName": "Dhubri",
+				"districtTenantCode": "pg.chapar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "20",
+				"ddrName": "DDR A"
+			},
+			"address": "Chapar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.sapatgram",
+			"name": "Sapatgram",
+			"description": "Sapatgram Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "sapatgram@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Sapatgram",
+				"localName": null,
+				"districtCode": "DHUBRI",
+				"districtName": "Dhubri",
+				"districtTenantCode": "pg.sapatgram",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "21",
+				"ddrName": "DDR A"
+			},
+			"address": "Sapatgram",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.golukganj",
+			"name": "Golukganj",
+			"description": "Golukganj Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "golukganj@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Golukganj",
+				"localName": null,
+				"districtCode": "DHUBRI",
+				"districtName": "Dhubri",
+				"districtTenantCode": "pg.golukganj",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "22",
+				"ddrName": "DDR A"
+			},
+			"address": "Golukganj",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.naharkatia",
+			"name": "Naharkatia",
+			"description": "Naharkatia Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "naharkatia@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Naharkatia",
+				"localName": null,
+				"districtCode": "DIBRUGARH",
+				"districtName": "Dibrugarh",
+				"districtTenantCode": "pg.naharkatia",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "64",
+				"ddrName": "DDR A"
+			},
+			"address": "Naharkatia",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.chabua",
+			"name": "Chabua",
+			"description": "Chabua Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "chabua@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Chabua",
+				"localName": null,
+				"districtCode": "DIBRUGARH",
+				"districtName": "Dibrugarh",
+				"districtTenantCode": "pg.chabua",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "65",
+				"ddrName": "DDR A"
+			},
+			"address": "Chabua",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.tinsukia",
+			"name": "Tinsukia",
+			"description": "Tinsukia Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "tinsukia@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Tinsukia",
+				"localName": null,
+				"districtCode": "TINSUKIA",
+				"districtName": "Tinsukia",
+				"districtTenantCode": "pg.tinsukia",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "67",
+				"ddrName": "DDR A"
+			},
+			"address": "Tinsukia",
+			"contactNumber": "001-2345876"
 		}
 	]
 }

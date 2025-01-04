@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.golukganj",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.golukganj"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.golukganj"
+        }
+    ]
+    
+}
