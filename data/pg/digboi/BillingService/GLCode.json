@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.digboi",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.digboi"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.digboi"
+        }
+    ]
+    
+}

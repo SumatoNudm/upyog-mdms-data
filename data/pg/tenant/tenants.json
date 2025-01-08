@@ -1971,6 +1971,240 @@
 			},
 			"address": "Tinsukia",
 			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.namrup",
+			"name": "Namrup",
+			"description": "Namrup Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "namrup@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Namrup",
+				"localName": null,
+				"districtCode": "DIBRUGARH",
+				"districtName": "Dibrugarh",
+				"districtTenantCode": "pg.namrup",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "66",
+				"ddrName": "DDR A"
+			},
+			"address": "Namrup",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.doomdooma",
+			"name": "Doom",
+			"description": "Doom Dooma Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "doomdooma@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Doom",
+				"localName": null,
+				"districtCode": "TINSUKIA",
+				"districtName": "Tinsukia",
+				"districtTenantCode": "pg.doomdooma",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "68",
+				"ddrName": "DDR A"
+			},
+			"address": "Doom",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.makum",
+			"name": "Makum",
+			"description": "Makum Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "makum@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Makum",
+				"localName": null,
+				"districtCode": "TINSUKIA",
+				"districtName": "Tinsukia",
+				"districtTenantCode": "pg.makum",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "69",
+				"ddrName": "DDR A"
+			},
+			"address": "Makum",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.digboi",
+			"name": "Digboi",
+			"description": "Digboi Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "digboi@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Digboi",
+				"localName": null,
+				"districtCode": "TINSUKIA",
+				"districtName": "Tinsukia",
+				"districtTenantCode": "pg.digboi",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "70",
+				"ddrName": "DDR A"
+			},
+			"address": "Digboi",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.margherita",
+			"name": "Margherita",
+			"description": "Margherita Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "margherita@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Margherita",
+				"localName": null,
+				"districtCode": "TINSUKIA",
+				"districtName": "Tinsukia",
+				"districtTenantCode": "pg.margherita",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "71",
+				"ddrName": "DDR A"
+			},
+			"address": "Margherita",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.chapakhowa",
+			"name": "Chapakhowa",
+			"description": "Chapakhowa Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "chapakhowa@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Chapakhowa",
+				"localName": null,
+				"districtCode": "SADIYA",
+				"districtName": "Sadiya",
+				"districtTenantCode": "pg.chapakhowa",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "72",
+				"ddrName": "DDR A"
+			},
+			"address": "Chapakhowa",
+			"contactNumber": "001-2345876"
 		}
 	]
 }

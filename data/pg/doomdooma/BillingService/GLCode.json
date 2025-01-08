@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.doomdooma",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.doomdooma"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.doomdooma"
+        }
+    ]
+    
+}

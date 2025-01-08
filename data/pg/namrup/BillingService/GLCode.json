@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.namrup",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.namrup"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.namrup"
+        }
+    ]
+    
+}
