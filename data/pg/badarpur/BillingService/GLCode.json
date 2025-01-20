@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.badarpur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.badarpur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.badarpur"
+        }
+    ]
+    
+}

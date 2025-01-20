@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.sonai",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.sonai"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.sonai"
+        }
+    ]
+    
+}

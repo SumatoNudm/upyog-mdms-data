@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.moran",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.moran"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.moran"
+        }
+    ]
+    
+}

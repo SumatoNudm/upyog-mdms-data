@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.rangapara",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.rangapara"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.rangapara"
+        }
+    ]
+    
+}

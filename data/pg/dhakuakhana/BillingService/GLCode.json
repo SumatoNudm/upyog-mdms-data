@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.dhakuakhana",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.dhakuakhana"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.dhakuakhana"
+        }
+    ]
+    
+}

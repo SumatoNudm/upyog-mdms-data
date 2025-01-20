@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.golaghat",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.golaghat"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.golaghat"
+        }
+    ]
+    
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.dergaon",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.dergaon"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.dergaon"
+        }
+    ]
+    
+}

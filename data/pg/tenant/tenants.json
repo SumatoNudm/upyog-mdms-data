@@ -2205,6 +2205,552 @@
 			},
 			"address": "Chapakhowa",
 			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.golaghat",
+			"name": "Golaghat",
+			"description": "Golaghat Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "golaghat@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Golaghat",
+				"localName": null,
+				"districtCode": "GOLAGHAT",
+				"districtName": "Golaghat",
+				"districtTenantCode": "pg.golaghat",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "43",
+				"ddrName": "DDR A"
+			},
+			"address": "Golaghat",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.dergaon",
+			"name": "Dergaon",
+			"description": "Dergaon Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "dergaon@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Dergaon",
+				"localName": null,
+				"districtCode": "GOLAGHAT",
+				"districtName": "Golaghat",
+				"districtTenantCode": "pg.dergaon",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "44",
+				"ddrName": "DDR A"
+			},
+			"address": "Dergaon",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.bokakhat",
+			"name": "Bokakhat",
+			"description": "Bokakhat Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "bokakhat@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Bokakhat",
+				"localName": null,
+				"districtCode": "GOLAGHAT",
+				"districtName": "Golaghat",
+				"districtTenantCode": "pg.bokakhat",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "45",
+				"ddrName": "DDR A"
+			},
+			"address": "Bokakhat",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.sarupathar",
+			"name": "Sarupathar",
+			"description": "Sarupathar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "sarupathar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Sarupathar",
+				"localName": null,
+				"districtCode": "GOLAGHAT",
+				"districtName": "Golaghat",
+				"districtTenantCode": "pg.sarupathar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "46",
+				"ddrName": "DDR A"
+			},
+			"address": "Sarupathar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.barpathar",
+			"name": "Barpathar",
+			"description": "Barpathar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "barpathar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Barpathar",
+				"localName": null,
+				"districtCode": "GOLAGHAT",
+				"districtName": "Golaghat",
+				"districtTenantCode": "pg.barpathar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "47",
+				"ddrName": "DDR A"
+			},
+			"address": "Barpathar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.tezpur",
+			"name": "Tezpur",
+			"description": "Tezpur Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "tezpur@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Tezpur",
+				"localName": null,
+				"districtCode": "SONITPUR",
+				"districtName": "Sonitpur",
+				"districtTenantCode": "pg.tezpur",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "36",
+				"ddrName": "DDR A"
+			},
+			"address": "Tezpur",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.dhekiajuli",
+			"name": "Dhekiajuli",
+			"description": "Dhekiajuli Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "dhekiajuli@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Dhekiajuli",
+				"localName": null,
+				"districtCode": "SONITPUR",
+				"districtName": "Sonitpur",
+				"districtTenantCode": "pg.dhekiajuli",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "37",
+				"ddrName": "DDR A"
+			},
+			"address": "Dhekiajuli",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.rangapara",
+			"name": "Rangapara",
+			"description": "Rangapara Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "rangapara@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Rangapara",
+				"localName": null,
+				"districtCode": "SONITPUR",
+				"districtName": "Sonitpur",
+				"districtTenantCode": "pg.rangapara",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "38",
+				"ddrName": "DDR A"
+			},
+			"address": "Rangapara",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.jamugurihat",
+			"name": "Jamugurihat",
+			"description": "Jamugurihat Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "jamugurihat@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Jamugurihat",
+				"localName": null,
+				"districtCode": "SONITPUR",
+				"districtName": "Sonitpur",
+				"districtTenantCode": "pg.jamugurihat",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "39",
+				"ddrName": "DDR A"
+			},
+			"address": "Jamugurihat",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.sonari",
+			"name": "Sonari",
+			"description": "Sonari Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "sonari@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Sonari",
+				"localName": null,
+				"districtCode": "SIVASAGAR",
+				"districtName": "Sivasagar",
+				"districtTenantCode": "pg.sonari",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "57",
+				"ddrName": "DDR A"
+			},
+			"address": "Sonari",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.moran",
+			"name": "Moran",
+			"description": "Moran Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "moran@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Moran",
+				"localName": null,
+				"districtCode": "SIVASAGAR",
+				"districtName": "Sivasagar",
+				"districtTenantCode": "pg.moran",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "58",
+				"ddrName": "DDR A"
+			},
+			"address": "Moran",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.northlakhimpur",
+			"name": "North",
+			"description": "North Lakhimpur Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "northlakhimpur@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "North Lakhimpur",
+				"localName": null,
+				"districtCode": "LAKHIMPUR",
+				"districtName": "Lakhimpur",
+				"districtTenantCode": "pg.northlakhimpur",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "59",
+				"ddrName": "DDR A"
+			},
+			"address": "Northlakhimpur",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.bihpuria",
+			"name": "Bihpuria",
+			"description": "Bihpuria Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "bihpuria@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Bihpuria",
+				"localName": null,
+				"districtCode": "LAKHIMPUR",
+				"districtName": "Lakhimpur",
+				"districtTenantCode": "pg.bihpuria",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "60",
+				"ddrName": "DDR A"
+			},
+			"address": "Bihpuria",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.dhakuakhana",
+			"name": "Dhakuakhana",
+			"description": "Dhakuakhana Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "dhakuakhana@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Dhakuakhana",
+				"localName": null,
+				"districtCode": "LAKHIMPUR",
+				"districtName": "Lakhimpur",
+				"districtTenantCode": "pg.dhakuakhana",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "61",
+				"ddrName": "DDR A"
+			},
+			"address": "Dhakuakhana",
+			"contactNumber": "001-2345876"
 		}
 	]
 }

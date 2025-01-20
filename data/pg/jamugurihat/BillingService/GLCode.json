@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.jamugurihat",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.jamugurihat"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.jamugurihat"
+        }
+    ]
+    
+}

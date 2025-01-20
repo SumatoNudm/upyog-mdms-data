@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.narayanpur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.narayanpur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.narayanpur"
+        }
+    ]
+    
+}

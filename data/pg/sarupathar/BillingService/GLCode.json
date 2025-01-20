@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.sarupathar",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.sarupathar"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.sarupathar"
+        }
+    ]
+    
+}

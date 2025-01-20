@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.northlakhimpur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.northlakhimpur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.northlakhimpur"
+        }
+    ]
+    
+}
