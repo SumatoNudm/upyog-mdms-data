@@ -2910,7 +2910,7 @@
 		},
 		{
 			"code": "pg.lakhipurcachar",
-			"name": "Cachar",
+			"name": "Lakhipur Cachar",
 			"description": "Lakhipur Municipal Board(Cachar)",
 			"pincode": [
 				143001,
@@ -2930,7 +2930,7 @@
 				"Mon - Fri": "9.00 AM - 6.00 PM"
 			},
 			"city": {
-				"name": "Cachar",
+				"name": "Lakhipur Cachar",
 				"localName": null,
 				"districtCode": "CACHAR",
 				"districtName": "Cachar",
