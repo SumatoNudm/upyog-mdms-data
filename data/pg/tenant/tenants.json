@@ -2790,6 +2790,747 @@
 			},
 			"address": "Narayanpur",
 			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.hailakandi",
+			"name": "Hailakandi",
+			"description": "Hailakandi Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "hailakandi@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Hailakandi",
+				"localName": null,
+				"districtCode": "HAILAKANDI",
+				"districtName": "Hailakandi",
+				"districtTenantCode": "pg.hailakandi",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "73",
+				"ddrName": "DDR A"
+			},
+			"address": "Hailakandi",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.lala",
+			"name": "Lala",
+			"description": "Lala Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "lala@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Lala",
+				"localName": null,
+				"districtCode": "HAILAKANDI",
+				"districtName": "Hailakandi",
+				"districtTenantCode": "pg.lala",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "74",
+				"ddrName": "DDR A"
+			},
+			"address": "Lala",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.silchar",
+			"name": "Silchar",
+			"description": "Silchar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "silchar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Silchar",
+				"localName": null,
+				"districtCode": "CACHAR",
+				"districtName": "Cachar",
+				"districtTenantCode": "pg.silchar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "75",
+				"ddrName": "DDR A"
+			},
+			"address": "Silchar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.lakhipurcachar",
+			"name": "Cachar",
+			"description": "Lakhipur Municipal Board(Cachar)",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "lakhipurcachar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Cachar",
+				"localName": null,
+				"districtCode": "CACHAR",
+				"districtName": "Cachar",
+				"districtTenantCode": "pg.lakhipurcachar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "76",
+				"ddrName": "DDR A"
+			},
+			"address": "Lakhipurcachar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.sonai",
+			"name": "Sonai",
+			"description": "Sonai Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "sonai@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Sonai",
+				"localName": null,
+				"districtCode": "CACHAR",
+				"districtName": "Cachar",
+				"districtTenantCode": "pg.sonai",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "77",
+				"ddrName": "DDR A"
+			},
+			"address": "Sonai",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.karimganj",
+			"name": "Karimganj",
+			"description": "Karimganj Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "karimganj@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Karimganj",
+				"localName": null,
+				"districtCode": "KARIMGANJ",
+				"districtName": "Karimganj",
+				"districtTenantCode": "pg.karimganj",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "78",
+				"ddrName": "DDR A"
+			},
+			"address": "Karimganj",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.badarpur",
+			"name": "Badarpur",
+			"description": "Badarpur Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "badarpur@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Badarpur",
+				"localName": null,
+				"districtCode": "KARIMGANJ",
+				"districtName": "Karimganj",
+				"districtTenantCode": "pg.badarpur",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "79",
+				"ddrName": "DDR A"
+			},
+			"address": "Badarpur",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.ramkrishnanagar",
+			"name": "Ramkrishnanagar",
+			"description": "Ramkrishnanagar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "ramkrishnanagar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Ramkrishnanagar",
+				"localName": null,
+				"districtCode": "KARIMGANJ",
+				"districtName": "Karimganj",
+				"districtTenantCode": "pg.ramkrishnanagar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "80",
+				"ddrName": "DDR A"
+			},
+			"address": "Ramkrishnanagar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.sibsagar",
+			"name": "Sibsagar",
+			"description": "Sibsagar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "sibsagar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Sibsagar",
+				"localName": null,
+				"districtCode": "SIVASAGAR",
+				"districtName": "Sivasagar",
+				"districtTenantCode": "pg.sibsagar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "52",
+				"ddrName": "DDR A"
+			},
+			"address": "Sibsagar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.nazira",
+			"name": "Nazira",
+			"description": "Nazira Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "nazira@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Nazira",
+				"localName": null,
+				"districtCode": "SIVASAGAR",
+				"districtName": "Sivasagar",
+				"districtTenantCode": "pg.nazira",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "53",
+				"ddrName": "DDR A"
+			},
+			"address": "Nazira",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.amguri",
+			"name": "Amguri",
+			"description": "Amguri Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "amguri@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Amguri",
+				"localName": null,
+				"districtCode": "SIVASAGAR",
+				"districtName": "Sivasagar",
+				"districtTenantCode": "pg.amguri",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "54",
+				"ddrName": "DDR A"
+			},
+			"address": "Amguri",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.simaluguri",
+			"name": "Simaluguri",
+			"description": "Simaluguri Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "simaluguri@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Simaluguri",
+				"localName": null,
+				"districtCode": "SIVASAGAR",
+				"districtName": "Sivasagar",
+				"districtTenantCode": "pg.simaluguri",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "55",
+				"ddrName": "DDR A"
+			},
+			"address": "Simaluguri",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.demow",
+			"name": "Demow",
+			"description": "Demow Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "demow@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Demow",
+				"localName": null,
+				"districtCode": "SIVASAGAR",
+				"districtName": "Sivasagar",
+				"districtTenantCode": "pg.demow",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "56",
+				"ddrName": "DDR A"
+			},
+			"address": "Demow",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.jorhat",
+			"name": "Jorhat",
+			"description": "Jorhat Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "jorhat@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Jorhat",
+				"localName": null,
+				"districtCode": "JORHAT",
+				"districtName": "Jorhat",
+				"districtTenantCode": "pg.jorhat",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "48",
+				"ddrName": "DDR A"
+			},
+			"address": "Jorhat",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.moriani",
+			"name": "Moriani",
+			"description": "Moriani Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "moriani@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Moriani",
+				"localName": null,
+				"districtCode": "JORHAT",
+				"districtName": "Jorhat",
+				"districtTenantCode": "pg.moriani",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "49",
+				"ddrName": "DDR A"
+			},
+			"address": "Moriani",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.titabar",
+			"name": "Titabar",
+			"description": "Titabar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "titabar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Titabar",
+				"localName": null,
+				"districtCode": "JORHAT",
+				"districtName": "Jorhat",
+				"districtTenantCode": "pg.titabar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "50",
+				"ddrName": "DDR A"
+			},
+			"address": "Titabar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.teok",
+			"name": "Teok",
+			"description": "Teok Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "teok@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Teok",
+				"localName": null,
+				"districtCode": "JORHAT",
+				"districtName": "Jorhat",
+				"districtTenantCode": "pg.teok",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "51",
+				"ddrName": "DDR A"
+			},
+			"address": "Teok",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.dhemaji",
+			"name": "Dhemaji",
+			"description": "Dhemaji Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "dhemaji@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Dhemaji",
+				"localName": null,
+				"districtCode": "DHEMAJI",
+				"districtName": "Dhemaji",
+				"districtTenantCode": "pg.dhemaji",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "81",
+				"ddrName": "DDR A"
+			},
+			"address": "Dhemaji",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.silapathar",
+			"name": "Silapathar",
+			"description": "Silapathar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "silapathar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Silapathar",
+				"localName": null,
+				"districtCode": "DHEMAJI",
+				"districtName": "Dhemaji",
+				"districtTenantCode": "pg.silapathar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "82",
+				"ddrName": "DDR A"
+			},
+			"address": "Silapathar",
+			"contactNumber": "001-2345876"
 		}
 	]
 }
