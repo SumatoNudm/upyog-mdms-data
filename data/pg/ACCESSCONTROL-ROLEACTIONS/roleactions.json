@@ -26785,6 +26785,18 @@
       "actionid": 2563,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+    {
+      "rolecode": "ASSAM_SUPERUSER",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSAM_SUPERUSER",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
   ]
 }
