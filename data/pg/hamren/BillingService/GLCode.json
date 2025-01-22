@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.hamren",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.hamren"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.hamren"
+        }
+    ]
+    
+}

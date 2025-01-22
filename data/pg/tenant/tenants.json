@@ -3531,6 +3531,786 @@
 			},
 			"address": "Silapathar",
 			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.baithalangso",
+			"name": "Baithalangso",
+			"description": "Baithalangso Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "baithalangso@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Baithalangso",
+				"localName": null,
+				"districtCode": "WEST KARBI ANGLONG",
+				"districtName": "West Karbi Anglong",
+				"districtTenantCode": "pg.baithalangso",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "91",
+				"ddrName": "DDR A"
+			},
+			"address": "Baithalangso",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.basugaon",
+			"name": "Basugaon",
+			"description": "Basugaon Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "basugaon@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Basugaon",
+				"localName": null,
+				"districtCode": "CHIRANG",
+				"districtName": "Chirang",
+				"districtTenantCode": "pg.basugaon",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "100",
+				"ddrName": "DDR A"
+			},
+			"address": "Basugaon",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.bijni",
+			"name": "Bijni",
+			"description": "Bijni Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "bijni@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Bijni",
+				"localName": null,
+				"districtCode": "CHIRANG",
+				"districtName": "Chirang",
+				"districtTenantCode": "pg.bijni",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "99",
+				"ddrName": "DDR A"
+			},
+			"address": "Bijni",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.bokajan",
+			"name": "Bokajan",
+			"description": "Bokajan Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "bokajan@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Bokajan",
+				"localName": null,
+				"districtCode": "KARBI ANGLONG",
+				"districtName": "Karbi Anglong",
+				"districtTenantCode": "pg.bokajan",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "86",
+				"ddrName": "DDR A"
+			},
+			"address": "Bokajan",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.bokolia",
+			"name": "Bokolia",
+			"description": "Bokolia Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "bokolia@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Bokolia",
+				"localName": null,
+				"districtCode": "KARBI ANGLONG",
+				"districtName": "Karbi Anglong",
+				"districtTenantCode": "pg.bokolia",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "87",
+				"ddrName": "DDR A"
+			},
+			"address": "Bokolia",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.diphu",
+			"name": "Diphu",
+			"description": "Diphu Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "diphu@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Diphu",
+				"localName": null,
+				"districtCode": "KARBI ANGLONG",
+				"districtName": "Karbi Anglong",
+				"districtTenantCode": "pg.diphu",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "83",
+				"ddrName": "DDR A"
+			},
+			"address": "Diphu",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.dokmoka",
+			"name": "Dokmoka",
+			"description": "Dokmoka Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "dokmoka@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Dokmoka",
+				"localName": null,
+				"districtCode": "KARBI ANGLONG",
+				"districtName": "Karbi Anglong",
+				"districtTenantCode": "pg.dokmoka",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "84",
+				"ddrName": "DDR A"
+			},
+			"address": "Dokmoka",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.donkamokam",
+			"name": "Donkamokam",
+			"description": "Donkamokam Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "donkamokam@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Donkamokam",
+				"localName": null,
+				"districtCode": "WEST KARBI ANGLONG",
+				"districtName": "West Karbi Anglong",
+				"districtTenantCode": "pg.donkamokam",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "90",
+				"ddrName": "DDR A"
+			},
+			"address": "Donkamokam",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.fakiragram",
+			"name": "Fakiragram",
+			"description": "Fakiragram Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "fakiragram@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Fakiragram",
+				"localName": null,
+				"districtCode": "KOKRAJHAR",
+				"districtName": "Kokrajhar",
+				"districtTenantCode": "pg.fakiragram",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "104",
+				"ddrName": "DDR A"
+			},
+			"address": "Fakiragram",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.goreswar",
+			"name": "Goreswar",
+			"description": "Goreswar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "goreswar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Goreswar",
+				"localName": null,
+				"districtCode": "BAKSA",
+				"districtName": "Baksa",
+				"districtTenantCode": "pg.goreswar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "96",
+				"ddrName": "DDR A"
+			},
+			"address": "Goreswar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.gossaigaon",
+			"name": "Gossaigaon",
+			"description": "Gossaigaon Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "gossaigaon@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Gossaigaon",
+				"localName": null,
+				"districtCode": "KOKRAJHAR",
+				"districtName": "Kokrajhar",
+				"districtTenantCode": "pg.gossaigaon",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "103",
+				"ddrName": "DDR A"
+			},
+			"address": "Gossaigaon",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.haflong",
+			"name": "Haflong",
+			"description": "Haflong Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "haflong@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Haflong",
+				"localName": null,
+				"districtCode": "DIMA HASAO",
+				"districtName": "Dima Hasao",
+				"districtTenantCode": "pg.haflong",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "92",
+				"ddrName": "DDR A"
+			},
+			"address": "Haflong",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.hamren",
+			"name": "Hamren",
+			"description": "Hamren Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "hamren@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Hamren",
+				"localName": null,
+				"districtCode": "WEST KARBI ANGLONG",
+				"districtName": "West Karbi Anglong",
+				"districtTenantCode": "pg.hamren",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "89",
+				"ddrName": "DDR A"
+			},
+			"address": "Hamren",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.howaraghat",
+			"name": "Howaraghat",
+			"description": "Howaraghat Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "howaraghat@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Howaraghat",
+				"localName": null,
+				"districtCode": "KARBI ANGLONG",
+				"districtName": "Karbi Anglong",
+				"districtTenantCode": "pg.howaraghat",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "85",
+				"ddrName": "DDR A"
+			},
+			"address": "Howaraghat",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.kajalgaon",
+			"name": "Kajalgaon",
+			"description": "Kajalgaon Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "kajalgaon@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Kajalgaon",
+				"localName": null,
+				"districtCode": "CHIRANG",
+				"districtName": "Chirang",
+				"districtTenantCode": "pg.kajalgaon",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "101",
+				"ddrName": "DDR A"
+			},
+			"address": "Kajalgaon",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.kokrajhar",
+			"name": "Kokrajhar",
+			"description": "Kokrajhar Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "kokrajhar@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Kokrajhar",
+				"localName": null,
+				"districtCode": "KOKRAJHAR",
+				"districtName": "Kokrajhar",
+				"districtTenantCode": "pg.kokrajhar",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "102",
+				"ddrName": "DDR A"
+			},
+			"address": "Kokrajhar",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.langhin",
+			"name": "Langhin",
+			"description": "Langhin Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "langhin@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Langhin",
+				"localName": null,
+				"districtCode": "KARBI ANGLONG",
+				"districtName": "Karbi Anglong",
+				"districtTenantCode": "pg.langhin",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "88",
+				"ddrName": "DDR A"
+			},
+			"address": "Langhin",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.mahur",
+			"name": "Mahur",
+			"description": "Mahur Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "mahur@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Mahur",
+				"localName": null,
+				"districtCode": "DIMA HASAO",
+				"districtName": "Dima Hasao",
+				"districtTenantCode": "pg.mahur",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "93",
+				"ddrName": "DDR A"
+			},
+			"address": "Mahur",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.maibong",
+			"name": "Maibong",
+			"description": "Maibong Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "maibong@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Maibong",
+				"localName": null,
+				"districtCode": "DIMA HASAO",
+				"districtName": "Dima Hasao",
+				"districtTenantCode": "pg.maibong",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "94",
+				"ddrName": "DDR A"
+			},
+			"address": "Maibong",
+			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.umrangshu",
+			"name": "Umrangshu",
+			"description": "Umrangshu Municipal Board",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://www.upyog.niua.org",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "umrangshu@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 6.00 PM"
+			},
+			"city": {
+				"name": "Umrangshu",
+				"localName": null,
+				"districtCode": "DIMA HASAO",
+				"districtName": "Dima Hasao",
+				"districtTenantCode": "pg.umrangshu",
+				"regionName": null,
+				"ulbGrade": "Municipal Board",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "95",
+				"ddrName": "DDR A"
+			},
+			"address": "Umrangshu",
+			"contactNumber": "001-2345876"
 		}
 	]
 }

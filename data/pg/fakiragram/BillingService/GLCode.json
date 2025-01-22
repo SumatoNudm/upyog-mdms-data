@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.fakiragram",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.fakiragram"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.fakiragram"
+        }
+    ]
+    
+}

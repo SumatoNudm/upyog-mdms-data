@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.donkamokam",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.donkamokam"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.donkamokam"
+        }
+    ]
+    
+}

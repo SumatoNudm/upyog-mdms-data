@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.umrangshu",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.umrangshu"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.umrangshu"
+        }
+    ]
+    
+}

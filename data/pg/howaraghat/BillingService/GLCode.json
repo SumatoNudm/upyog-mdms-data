@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.howaraghat",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.howaraghat"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.howaraghat"
+        }
+    ]
+    
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.basugaon",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.basugaon"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.basugaon"
+        }
+    ]
+    
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.goreswar",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.goreswar"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.goreswar"
+        }
+    ]
+    
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg.bijni",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.bijni"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.bijni"
+        }
+    ]
+    
+}
