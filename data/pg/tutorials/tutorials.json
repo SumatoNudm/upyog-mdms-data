@@ -7,6 +7,12 @@
       "title": "Work Order Create",
       "video_url": "https://youtu.be/fzq93i3AaY8?si=pq_uoXT1D3i5SvEJ",
       "description": "Tutorials for work order master creation."
+    },
+    {
+      "id": "master.supplier.create",
+      "title": "Supplier Create",
+      "video_url": "https://youtu.be/fzq93i3AaY8?si=pq_uoXT1D3i5SvEJ",
+      "description": "Tutorials for supplier master creation."
     }
   ]
 }
