@@ -11,7 +11,19 @@
     {
       "id": "master.supplier.create",
       "title": "Supplier Create",
-      "video_url": "https://youtu.be/fzq93i3AaY8?si=pq_uoXT1D3i5SvEJ",
+      "video_url": "https://youtu.be/toKfNjEpWhs?si=dI-XXBGXGjIs9rsW",
+      "description": "Tutorials for supplier master creation."
+    },
+    {
+      "id": "master.subledgercategory.create",
+      "title": "Supplier Create",
+      "video_url": "https://youtu.be/QZaM__KS5cE?si=9XGYUs1elivFuqHo",
+      "description": "Tutorials for supplier master creation."
+    },
+    {
+      "id": "master.subledger.create",
+      "title": "Supplier Create",
+      "video_url": "https://youtu.be/QZaM__KS5cE?si=9XGYUs1elivFuqHo",
       "description": "Tutorials for supplier master creation."
     }
   ]
