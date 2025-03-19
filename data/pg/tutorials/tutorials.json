@@ -16,15 +16,15 @@
     },
     {
       "id": "master.subledgercategory.create",
-      "title": "Supplier Create",
+      "title": "Subledger Category Create",
       "video_url": "https://youtu.be/QZaM__KS5cE?si=9XGYUs1elivFuqHo",
-      "description": "Tutorials for supplier master creation."
+      "description": "Tutorials for subledger category master creation."
     },
     {
       "id": "master.subledger.create",
-      "title": "Supplier Create",
+      "title": "Subledger Create",
       "video_url": "https://youtu.be/QZaM__KS5cE?si=9XGYUs1elivFuqHo",
-      "description": "Tutorials for supplier master creation."
+      "description": "Tutorials for subledger master creation."
     }
   ]
 }
