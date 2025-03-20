@@ -15,14 +15,62 @@
       "description": "Tutorials for supplier master creation."
     },
     {
-      "id": "master.subledgercategory.create",
+      "id": "master.subLedgerCategory.create",
       "title": "Subledger Category Create",
       "video_url": "https://youtu.be/QZaM__KS5cE?si=9XGYUs1elivFuqHo",
       "description": "Tutorials for subledger category master creation."
     },
     {
-      "id": "master.subledger.create",
+      "id": "master.subLedger.create",
       "title": "Subledger Create",
+      "video_url": "https://youtu.be/QZaM__KS5cE?si=9XGYUs1elivFuqHo",
+      "description": "Tutorials for subledger master creation."
+    },
+    {
+      "id": "master.purchaseOrder.create",
+      "title": "Purchase Order Create",
+      "video_url": "https://youtu.be/TrqB8fN_ab0?si=zjFqiikmRCQjxO6S",
+      "description": "Tutorials for purchase order master creation."
+    },
+    {
+      "id": "master.fund.create",
+      "title": "Fund Create",
+      "video_url": "https://youtu.be/YbV5R5AkJPY?si=zJScE4uhKLo2cQPw",
+      "description": "Tutorials for Fund master creation."
+    },
+    {
+      "id": "master.function.create",
+      "title": "Function Create",
+      "video_url": "https://youtu.be/r-JDlkL9BWs?si=d7sPi7AXilahZny2",
+      "description": "Tutorials for Function master creation."
+    },
+    {
+      "id": "master.contractor.create",
+      "title": "Contractor Create",
+      "video_url": "https://youtu.be/oLK9eI3VBgg?si=YdSMe1BrOabtT-AB",
+      "description": "Tutorials for Contractor master creation."
+    },
+    {
+      "id": "master.bank.create",
+      "title": "Bank Create",
+      "video_url": "https://youtu.be/QZaM__KS5cE?si=9XGYUs1elivFuqHo",
+      "description": "Tutorials for Bank master creation."
+    },
+    {
+      "id": "master.bankAccount.create",
+      "title": "Bank Account Create",
+      "video_url": "https://youtu.be/l4n_7BnDjMI?si=blr21--9qkNrxKPg",
+      "description": "Tutorials for Bank Account master creation."
+    },
+    {
+      "id": "master.bankBranch.create",
+      "title": "Bank Branch Create",
+      "video_url": "https://youtu.be/l4n_7BnDjMI?si=blr21--9qkNrxKPg",
+      "description": "Tutorials for Bank Branch master creation."
+    },
+    {
+      "id": "master.bankBranch.create1",
+      "title": "Function Create",
       "video_url": "https://youtu.be/QZaM__KS5cE?si=9XGYUs1elivFuqHo",
       "description": "Tutorials for subledger master creation."
     }
