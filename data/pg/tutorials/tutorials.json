@@ -84,6 +84,13 @@
       "video_url": "https://youtu.be/VM1RR4Bxk8w?si=0koB6T_Z2nWO5Zf-",
       "description": "Tutorials for Chart of Accounts Master.",
       "isActive": true
+    },
+    {
+      "id": "master.scheme.create",
+      "title": "Scheme Create",
+      "video_url": "https://youtu.be/VM1RR4Bxk8w?si=0koB6T_Z2nWO5Zf-",
+      "description": "Tutorials for Scheme Create Master.",
+      "isActive": true
     }
   ]
 }
