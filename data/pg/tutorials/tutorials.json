@@ -79,10 +79,10 @@
       "isActive": true
     },
     {
-      "id": "master.chartOfAccounts",
-      "title": "Chart of Accounts",
+      "id": "master.chartOfAccounts.create",
+      "title": "Chart of Accounts Detail Code",
       "video_url": "https://youtu.be/VM1RR4Bxk8w?si=0koB6T_Z2nWO5Zf-",
-      "description": "Tutorials for Chart of Accounts Master.",
+      "description": "Tutorials for Chart of Accounts Detail Code Master.",
       "isActive": true
     },
     {
