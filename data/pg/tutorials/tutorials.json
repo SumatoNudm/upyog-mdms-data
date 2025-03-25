@@ -105,6 +105,28 @@
       "video_url": "https://youtu.be/i6EfloJntjs?si=pVNoL_ds2cBz1i5o",
       "description": "Tutorials for Scheme Create Master.",
       "isActive": true
+    },
+    {
+      "id": "transactions.billsAccounting.expenseBill",
+      "title": "Expense Bill Creation",
+      "video_url": "https://youtu.be/iFyb76cpF_A?si=m1VCE8FJVOubukBU",
+      "description": "Tutorials for Expense bill creation.",
+      "isActive": true
+    },
+    {
+      "id": "transactions.billsAccounting.contractorBill",
+      "title": "Contractor Bill Creation",
+      "video_url": "https://youtu.be/iFyb76cpF_A?si=m1VCE8FJVOubukBU",
+      "description": "Tutorials for Contractor bill creation.",
+      "isActive": true
+    },
+    {
+      "id": "transactions.billsAccounting.supplierBill",
+      "title": "Supplier Bill Creation",
+      "video_url": "https://youtu.be/iFyb76cpF_A?si=m1VCE8FJVOubukBU",
+      "description": "Tutorials for Supplier bill creation.",
+      "isActive": true
     }
   ]
 }
+
