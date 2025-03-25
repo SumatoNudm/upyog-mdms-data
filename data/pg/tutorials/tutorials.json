@@ -7,7 +7,7 @@
       "title": "Work Order Create",
       "video_url": "https://youtu.be/fzq93i3AaY8?si=pq_uoXT1D3i5SvEJ",
       "description": "Tutorials for work order master creation.",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "master.supplier.create",
@@ -132,7 +132,7 @@
       "title": "Supplier Bill Creation",
       "video_url": "https://youtu.be/iFyb76cpF_A?si=m1VCE8FJVOubukBU",
       "description": "Tutorials for Supplier bill creation.",
-      "isActive": true
+      "isActive": false
     }
   ]
 }
