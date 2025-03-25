@@ -15350,6 +15350,21 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Transactions.Bills Accounting.Bill Approve",
          "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
+      },
+      {
+         "id": 2564,
+         "name": "Dashboard",
+         "navigationURL": "services/EGF/report/dashboardReport-viewReport.action",
+         "url": "services/EGF/report/dashboardReport-viewReport.action",
+         "parentModule": "EGF",
+         "displayName": "Dashboard",
+         "orderNumber": 6,
+         "enabled": true,
+         "serviceCode": "FinanceDashboard",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Dashboard",
+         "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
       }
    ]
 }

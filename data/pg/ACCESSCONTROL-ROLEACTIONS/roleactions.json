@@ -26797,6 +26797,12 @@
       "actionid": 1556,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2564,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
