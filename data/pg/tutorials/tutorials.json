@@ -86,6 +86,13 @@
       "isActive": true
     },
     {
+      "id": "master.chartOfAccounts.modify",
+      "title": "Chart of Accounts Modify",
+      "video_url": "https://youtu.be/zYIa6qoKL0g?si=BJaUiCdERzrCpy53",
+      "description": "Tutorials for Chart of Accounts Modifications.",
+      "isActive": true
+    },
+    {
       "id": "master.scheme.create",
       "title": "Scheme Create",
       "video_url": "https://youtu.be/kHnH8Qgq01I?si=c6XrvqS6V2S8KSLy",
