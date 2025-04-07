@@ -15369,8 +15369,8 @@
       {
          "id": 2565,
          "name": "Dashboard",
-         "navigationURL": "https://service.assamurban.in/register",
-         "url": "https://service.assamurban.in/register",
+         "navigationURL": "service.assamurban.in/register",
+         "url": "service.assamurban.in/register",
          "parentModule": "EGF",
          "displayName": "Test URL",
          "orderNumber": 6,
