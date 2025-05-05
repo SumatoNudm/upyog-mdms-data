@@ -15380,6 +15380,21 @@
          "leftIcon": "editor:insert-chart",
          "path": "Assam Urban",
          "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
+      },
+      {
+         "id": 2564,
+         "name": "FAQs",
+         "navigationURL": "services/EGF/faq/viewFaqs",
+         "url": "services/EGF/faq/viewFaqs",
+         "parentModule": "EGF",
+         "displayName": "FAQs",
+         "orderNumber": 7,
+         "enabled": true,
+         "serviceCode": "Faqs",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.FAQs",
+         "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
       }
    ]
 }
