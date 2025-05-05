@@ -15354,8 +15354,8 @@
       {
          "id": 2564,
          "name": "Dashboard",
-         "navigationURL": "services/EGF/report/dashboardReport-viewReport.action",
-         "url": "services/EGF/report/dashboardReport-viewReport.action",
+         "navigationURL": "services/EGF/report/dashboardReport-viewForm.action",
+         "url": "services/EGF/report/dashboardReport-viewForm.action",
          "parentModule": "EGF",
          "displayName": "Dashboard",
          "orderNumber": 6,
