@@ -15367,21 +15367,6 @@
          "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
       },
       {
-         "id": 2565,
-         "name": "Assam Urban",
-         "navigationURL": "service.assamurban.in/register",
-         "url": "service.assamurban.in/register",
-         "parentModule": "EGF",
-         "displayName": "Test URL",
-         "orderNumber": 6,
-         "enabled": true,
-         "serviceCode": "Assam urban",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Assam Urban",
-         "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
-      },
-      {
          "id": 2566,
          "name": "FAQs",
          "navigationURL": "services/EGF/faq/viewFaqs",
