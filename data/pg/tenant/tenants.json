@@ -218,8 +218,8 @@
 		},
 		{
 			"code": "pg.gmc",
-			"name": "Guwahati",
-			"description": "Guwahati Municipal Corporation",
+			"name": "UAT BETA",
+			"description": "Uat Beta",
 			"pincode": [
 				143001,
 				143002,
@@ -238,7 +238,7 @@
 				"Mon - Fri": "9.00 AM - 6.00 PM"
 			},
 			"city": {
-				"name": "Guwahati",
+				"name": "UAT BETA",
 				"localName": null,
 				"districtCode": "Kamrup Metro",
 				"districtName": null,
@@ -253,7 +253,7 @@
 				"code": "1013",
 				"ddrName": "DDR A"
 			},
-			"address": "Guwahati Municipal Corporation",
+			"address": "UAT BETA Municipal Corporation",
 			"contactNumber": "001-2345876"
 		},
 		{
@@ -4311,6 +4311,45 @@
 			},
 			"address": "Umrangshu",
 			"contactNumber": "001-2345876"
+		},
+		{
+			"code": "pg.guwahati",
+			"name": "Guwahati",
+			"description": "Guwahati Municipal Corporation",
+			"pincode": [
+				143001,
+				143002,
+				143003,
+				143004,
+				143005
+			],
+			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+			"imageId": null,
+			"domainUrl": "https://gmc.assam.gov.in/",
+			"type": "CITY",
+			"twitterUrl": null,
+			"facebookUrl": null,
+			"emailId": "guwahaticom@gmail.com",
+			"OfficeTimings": {
+				"Mon - Fri": "9.00 AM - 5.00 PM"
+			},
+			"city": {
+				"name": "Guwahati",
+				"localName": null,
+				"districtCode": "Kamrup Metro",
+				"districtName": "Kamrup Metro",
+				"districtTenantCode": "pg.guwahati",
+				"regionName": null,
+				"ulbGrade": "Municipal Corporation",
+				"longitude": null,
+				"latitude": null,
+				"shapeFileLocation": null,
+				"captcha": null,
+				"code": "1",
+				"ddrName": "DDR A"
+			},
+			"address": "Ganesh Mandir, Guwahati – 781006",
+			"contactNumber": "361-2540525"
 		}
 	]
 }
