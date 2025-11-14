@@ -15380,6 +15380,51 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.FAQs",
          "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
+      },
+      {
+         "id": 2567,
+         "name": "Create Function Wise Budget",
+         "navigationURL": "services/EGF/budget/new",
+         "url": "services/EGF/budget/new",
+         "parentModule": "EGF",
+         "displayName": "Create Function Wise Budget",
+         "orderNumber": 7,
+         "enabled": true,
+         "serviceCode": "budget",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Budget",
+         "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
+      },
+      {
+         "id": 2568,
+         "name": "Function Wise Budget Head",
+         "navigationURL": "services/EGF/budgethead/function-wise-view",
+         "url": "services/EGF/budgethead/function-wise-view",
+         "parentModule": "EGF",
+         "displayName": "Function Wise Budget Head",
+         "orderNumber": 7,
+         "enabled": true,
+         "serviceCode": "budget",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Budget",
+         "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
+      },
+      {
+         "id": 2569,
+         "name": "Budget Head",
+         "navigationURL": "services/EGF/budgethead/view",
+         "url": "services/EGF/budgethead/view",
+         "parentModule": "EGF",
+         "displayName": "Budget Head",
+         "orderNumber": 7,
+         "enabled": true,
+         "serviceCode": "budget",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Budget",
+         "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
       }
    ]
 }
