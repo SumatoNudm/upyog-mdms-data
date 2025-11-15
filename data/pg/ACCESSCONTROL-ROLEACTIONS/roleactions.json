@@ -26853,7 +26853,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "EGF_VOUCHER_CREATOR",
       "actionid": 2567,
       "actioncode": "",
       "tenantId": "pg"
