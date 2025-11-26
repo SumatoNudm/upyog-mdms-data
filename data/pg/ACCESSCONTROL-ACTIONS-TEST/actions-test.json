@@ -15425,6 +15425,34 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Budget.Budget Head",
          "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
+      },
+      {
+         "id": 2570,
+         "name": "Create Budget Register",
+         "navigationURL": "services/EGF/budget/register/new",
+         "url": "services/EGF/budget/register/new",
+         "parentModule": "EGF",
+         "displayName": "Create Budget Register",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "budget",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Budget.Budget Register.Create Budget Register"
+      },
+      {
+         "id": 2571,
+         "name": "View Budget Register",
+         "navigationURL": "services/EGF/budget/register/view",
+         "url": "services/EGF/budget/register/view",
+         "parentModule": "EGF",
+         "displayName": "View Budget Register",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "budget",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Budget.Budget Register.View Budget Register"
       }
    ]
 }
