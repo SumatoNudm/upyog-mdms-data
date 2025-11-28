@@ -26853,7 +26853,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_VOUCHER_CREATOR",
+      "rolecode": "EGF_BILL_CREATOR",
       "actionid": 2567,
       "actioncode": "",
       "tenantId": "pg"
@@ -26871,7 +26871,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE_FINANCE",
+      "rolecode": "EGF_BILL_CREATOR",
       "actionid": 2570,
       "actioncode": "",
       "tenantId": "pg"
