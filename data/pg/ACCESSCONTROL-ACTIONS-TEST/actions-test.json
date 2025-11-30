@@ -15453,6 +15453,20 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Budget.Budget Register.View Budget Register"
+      },
+      {
+         "id": 2572,
+         "name": "Finance Inbox",
+         "navigationURL": "services/EGF/inbox",
+         "url": "services/EGF/inbox",
+         "parentModule": "EGF",
+         "displayName": "Finance Inbox",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "EGF",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Finance Inbox",
       }
    ]
 }
