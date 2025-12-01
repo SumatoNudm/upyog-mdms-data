@@ -15463,7 +15463,7 @@
          "displayName": "Finance Inbox",
          "orderNumber": 1,
          "enabled": true,
-         "serviceCode": "EGF",
+         "serviceCode": "Finance",
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Finance Inbox"
