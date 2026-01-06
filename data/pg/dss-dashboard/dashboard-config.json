@@ -8,6 +8,12 @@
           "dashboard": null
         },
         {
+          "finance": {
+            "services_name": "Finance",
+            "filterKey": "finance"
+          }
+        },
+        {
           "propertytax": {
             "services_name": "Property Tax",
             "filterKey": "PT"
