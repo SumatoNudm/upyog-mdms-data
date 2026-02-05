@@ -217,46 +217,6 @@
 			"contactNumber": "0978-7645345"
 		},
 		{
-			"code": "as.gmc",
-			"name": "UAT BETA",
-			"description": "Uat Beta",
-			"pincode": [
-				143001,
-				143002,
-				143003,
-				143004,
-				143005
-			],
-			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-			"imageId": null,
-			"domainUrl": "https://www.upyog.niua.org",
-			"type": "CITY",
-			"twitterUrl": null,
-			"facebookUrl": null,
-			"emailId": "gmc@gmail.com",
-			"OfficeTimings": {
-				"Mon - Fri": "9.00 AM - 6.00 PM"
-			},
-			"city": {
-				"name": "UAT BETA",
-				"localName": null,
-				"districtCode": "Kamrup Metro",
-				"districtName": null,
-				"districtTenantCode": "as.gmc",
-				"regionName": null,
-				"ulbGrade1": "",
-				"ulbGrade": "Municipal Corporation",
-				"longitude": 75.5761829,
-				"latitude": 31.3260152,
-				"shapeFileLocation": null,
-				"captcha": null,
-				"code": "1013",
-				"ddrName": "UAT BETA"
-			},
-			"address": "UAT BETA Municipal Corporation",
-			"contactNumber": "001-2345876"
-		},
-		{
 			"code": "as.dibrugarh",
 			"name": "Dibrugarh",
 			"description": "Dibrugarh",
@@ -289,7 +249,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "1013",
+				"code": "63",
 				"ddrName": "Dibrugarh"
 			},
 			"address": "Dibrugarh Municipal Corporation",
@@ -367,7 +327,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "1013",
+				"code": "17",
 				"ddrName": "Dhubri"
 			},
 			"address": "Dhubri Municipal Board",
@@ -406,7 +366,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "1013",
+				"code": "28",
 				"ddrName": "Nagaon"
 			},
 			"address": "Nagaon Municipal Board",
@@ -445,7 +405,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "1013",
+				"code": "5",
 				"ddrName": "Nalbari"
 			},
 			"address": "Nalbari Municipal Board",
@@ -484,7 +444,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "1013",
+				"code": "7",
 				"ddrName": "Barpeta"
 			},
 			"address": "Barpeta Municipal Board",
@@ -523,7 +483,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "sorbhog",
+				"code": "12",
 				"ddrName": "Sorbhog"
 			},
 			"address": "Sorbhog Municipal Board",
@@ -562,7 +522,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "howly",
+				"code": "9",
 				"ddrName": "Howly"
 			},
 			"address": "Howly Municipal Board",
@@ -601,7 +561,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "UAT",
+				"code": "8",
 				"ddrName": "Pathsala"
 			},
 			"address": "Pathsala Municipal Board",
@@ -640,7 +600,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "sarthebari",
+				"code": "10",
 				"ddrName": "Sarthebari"
 			},
 			"address": "Sarthebari Municipal Board",
@@ -679,7 +639,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "barpetaroad",
+				"code": "11",
 				"ddrName": "Barpeta Road"
 			},
 			"address": "Barpeta Road Municipal Board",
@@ -718,7 +678,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "barpetaroad",
+				"code": "13",
 				"ddrName": "Patacharkuchi"
 			},
 			"address": "Patacharkuchi Municipal Board",
@@ -757,7 +717,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "raha",
+				"code": "30",
 				"ddrName": "Raha"
 			},
 			"address": "Raha Municipal Board",
@@ -796,7 +756,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "dhing",
+				"code": "31",
 				"ddrName": "Dhing"
 			},
 			"address": "Dhing Municipal Board",
@@ -835,7 +795,7 @@
 				"latitude": 31.3260152,
 				"shapeFileLocation": null,
 				"captcha": null,
-				"code": "kampur",
+				"code": "29",
 				"ddrName": "Kampur"
 			},
 			"address": "Kampur Municipal Board",
@@ -1343,48 +1303,9 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "16",
-				"ddrName": "DDR A"
+				"ddrName": "Sipajhar"
 			},
 			"address": "Sipajhar",
-			"contactNumber": "001-2345876"
-		},
-		{
-			"code": "as.pathshala",
-			"name": "Pathsala",
-			"description": "Pathsala Municipal Board",
-			"pincode": [
-				143001,
-				143002,
-				143003,
-				143004,
-				143005
-			],
-			"logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-			"imageId": null,
-			"domainUrl": "https://www.upyog.niua.org",
-			"type": "CITY",
-			"twitterUrl": null,
-			"facebookUrl": null,
-			"emailId": "pathsala@gmail.com",
-			"OfficeTimings": {
-				"Mon - Fri": "9.00 AM - 6.00 PM"
-			},
-			"city": {
-				"name": "Pathsala",
-				"localName": null,
-				"districtCode": "BARPETA",
-				"districtName": "Barpeta",
-				"districtTenantCode": "as.pathshala",
-				"regionName": null,
-				"ulbGrade": "Municipal Board",
-				"longitude": 75.5761829,
-				"latitude": 31.3260152,
-				"shapeFileLocation": null,
-				"captcha": null,
-				"code": "8",
-				"ddrName": "DDR A"
-			},
-			"address": "Pathsala Municipal Board",
 			"contactNumber": "001-2345876"
 		},
 		{
@@ -1421,7 +1342,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "40",
-				"ddrName": "DDR A"
+				"ddrName": "Gohpur"
 			},
 			"address": "Gohpur",
 			"contactNumber": "001-2345876"
@@ -1460,7 +1381,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "41",
-				"ddrName": "DDR A"
+				"ddrName": "Biswanath Chariali"
 			},
 			"address": "Biswanath",
 			"contactNumber": "001-2345876"
@@ -1499,7 +1420,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "42",
-				"ddrName": "DDR A"
+				"ddrName": "Sootea"
 			},
 			"address": "Sootea",
 			"contactNumber": "001-2345876"
@@ -1538,7 +1459,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "32",
-				"ddrName": "DDR A"
+				"ddrName": "Lanka"
 			},
 			"address": "Lanka",
 			"contactNumber": "001-2345876"
@@ -1577,7 +1498,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "33",
-				"ddrName": "DDR A"
+				"ddrName": "Hojai"
 			},
 			"address": "Hojai",
 			"contactNumber": "001-2345876"
@@ -1616,7 +1537,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "34",
-				"ddrName": "DDR A"
+				"ddrName": "Doboka"
 			},
 			"address": "Doboka",
 			"contactNumber": "001-2345876"
@@ -1655,7 +1576,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "35",
-				"ddrName": "DDR A"
+				"ddrName": "Lumding"
 			},
 			"address": "Lumding",
 			"contactNumber": "001-2345876"
@@ -1694,7 +1615,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "18",
-				"ddrName": "DDR A"
+				"ddrName": "Gauripur"
 			},
 			"address": "Gauripur",
 			"contactNumber": "001-2345876"
@@ -1733,7 +1654,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "19",
-				"ddrName": "DDR A"
+				"ddrName": "Bilasipara"
 			},
 			"address": "Bilasipara",
 			"contactNumber": "001-2345876"
@@ -1772,7 +1693,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "20",
-				"ddrName": "DDR A"
+				"ddrName": "Chapar"
 			},
 			"address": "Chapar",
 			"contactNumber": "001-2345876"
@@ -1811,7 +1732,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "21",
-				"ddrName": "DDR A"
+				"ddrName": "Sapatgram"
 			},
 			"address": "Sapatgram",
 			"contactNumber": "001-2345876"
@@ -1850,7 +1771,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "22",
-				"ddrName": "DDR A"
+				"ddrName": "Golukganj"
 			},
 			"address": "Golukganj",
 			"contactNumber": "001-2345876"
@@ -1889,7 +1810,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "64",
-				"ddrName": "DDR A"
+				"ddrName": "Naharkatia"
 			},
 			"address": "Naharkatia",
 			"contactNumber": "001-2345876"
@@ -1928,7 +1849,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "65",
-				"ddrName": "DDR A"
+				"ddrName": "Chabua"
 			},
 			"address": "Chabua",
 			"contactNumber": "001-2345876"
@@ -1967,7 +1888,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "67",
-				"ddrName": "DDR A"
+				"ddrName": "Tinsukia"
 			},
 			"address": "Tinsukia",
 			"contactNumber": "001-2345876"
@@ -2006,7 +1927,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "66",
-				"ddrName": "DDR A"
+				"ddrName": "Namrup"
 			},
 			"address": "Namrup",
 			"contactNumber": "001-2345876"
@@ -2033,7 +1954,7 @@
 				"Mon - Fri": "9.00 AM - 6.00 PM"
 			},
 			"city": {
-				"name": "Doom",
+				"name": "Doom Dooma",
 				"localName": null,
 				"districtCode": "TINSUKIA",
 				"districtName": "Tinsukia",
@@ -2045,9 +1966,9 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "68",
-				"ddrName": "DDR A"
+				"ddrName": "Doom Dooma"
 			},
-			"address": "Doom",
+			"address": "Doom Dooma",
 			"contactNumber": "001-2345876"
 		},
 		{
@@ -2084,7 +2005,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "69",
-				"ddrName": "DDR A"
+				"ddrName": "Makum"
 			},
 			"address": "Makum",
 			"contactNumber": "001-2345876"
@@ -2123,7 +2044,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "70",
-				"ddrName": "DDR A"
+				"ddrName": "Digboi"
 			},
 			"address": "Digboi",
 			"contactNumber": "001-2345876"
@@ -2162,7 +2083,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "71",
-				"ddrName": "DDR A"
+				"ddrName": "Margherita"
 			},
 			"address": "Margherita",
 			"contactNumber": "001-2345876"
@@ -2201,7 +2122,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "72",
-				"ddrName": "DDR A"
+				"ddrName": "Chapakhowa"
 			},
 			"address": "Chapakhowa",
 			"contactNumber": "001-2345876"
@@ -2240,7 +2161,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "43",
-				"ddrName": "DDR A"
+				"ddrName": "Golaghat"
 			},
 			"address": "Golaghat",
 			"contactNumber": "001-2345876"
@@ -2279,7 +2200,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "44",
-				"ddrName": "DDR A"
+				"ddrName": "Dergaon"
 			},
 			"address": "Dergaon",
 			"contactNumber": "001-2345876"
@@ -2318,7 +2239,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "45",
-				"ddrName": "DDR A"
+				"ddrName": "Bokakhat"
 			},
 			"address": "Bokakhat",
 			"contactNumber": "001-2345876"
@@ -2357,7 +2278,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "46",
-				"ddrName": "DDR A"
+				"ddrName": "Sarupathar"
 			},
 			"address": "Sarupathar",
 			"contactNumber": "001-2345876"
@@ -2396,7 +2317,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "47",
-				"ddrName": "DDR A"
+				"ddrName": "Barpathar"
 			},
 			"address": "Barpathar",
 			"contactNumber": "001-2345876"
@@ -2435,7 +2356,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "36",
-				"ddrName": "DDR A"
+				"ddrName": "Tezpur"
 			},
 			"address": "Tezpur",
 			"contactNumber": "001-2345876"
@@ -2474,7 +2395,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "37",
-				"ddrName": "DDR A"
+				"ddrName": "Dhekiajuli"
 			},
 			"address": "Dhekiajuli",
 			"contactNumber": "001-2345876"
@@ -2513,7 +2434,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "38",
-				"ddrName": "DDR A"
+				"ddrName": "Rangapara"
 			},
 			"address": "Rangapara",
 			"contactNumber": "001-2345876"
@@ -2552,7 +2473,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "39",
-				"ddrName": "DDR A"
+				"ddrName": "Jamugurihat"
 			},
 			"address": "Jamugurihat",
 			"contactNumber": "001-2345876"
@@ -2591,7 +2512,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "57",
-				"ddrName": "DDR A"
+				"ddrName": "Sonari"
 			},
 			"address": "Sonari",
 			"contactNumber": "001-2345876"
@@ -2630,14 +2551,14 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "58",
-				"ddrName": "DDR A"
+				"ddrName": "Moran"
 			},
 			"address": "Moran",
 			"contactNumber": "001-2345876"
 		},
 		{
 			"code": "as.northlakhimpur",
-			"name": "North",
+			"name": "North Lakhimpur",
 			"description": "North Lakhimpur Municipal Board",
 			"pincode": [
 				143001,
@@ -2669,7 +2590,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "59",
-				"ddrName": "DDR A"
+				"ddrName": "North Lakhimpur"
 			},
 			"address": "Northlakhimpur",
 			"contactNumber": "001-2345876"
@@ -2708,7 +2629,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "60",
-				"ddrName": "DDR A"
+				"ddrName": "Bihpuria"
 			},
 			"address": "Bihpuria",
 			"contactNumber": "001-2345876"
@@ -2747,7 +2668,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "61",
-				"ddrName": "DDR A"
+				"ddrName": "Dhakuakhana"
 			},
 			"address": "Dhakuakhana",
 			"contactNumber": "001-2345876"
@@ -2786,7 +2707,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "62",
-				"ddrName": "DDR A"
+				"ddrName": "Narayanpur"
 			},
 			"address": "Narayanpur",
 			"contactNumber": "001-2345876"
@@ -2825,7 +2746,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "73",
-				"ddrName": "DDR A"
+				"ddrName": "Hailakandi"
 			},
 			"address": "Hailakandi",
 			"contactNumber": "001-2345876"
@@ -2864,7 +2785,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "74",
-				"ddrName": "DDR A"
+				"ddrName": "Lala"
 			},
 			"address": "Lala",
 			"contactNumber": "001-2345876"
@@ -2903,7 +2824,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "75",
-				"ddrName": "DDR A"
+				"ddrName": "Silchar"
 			},
 			"address": "Silchar",
 			"contactNumber": "001-2345876"
@@ -2942,7 +2863,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "76",
-				"ddrName": "DDR A"
+				"ddrName": "Lakhipur Cachar"
 			},
 			"address": "Lakhipurcachar",
 			"contactNumber": "001-2345876"
@@ -2981,7 +2902,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "77",
-				"ddrName": "DDR A"
+				"ddrName": "Sonai"
 			},
 			"address": "Sonai",
 			"contactNumber": "001-2345876"
@@ -3020,7 +2941,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "78",
-				"ddrName": "DDR A"
+				"ddrName": "Karimganj"
 			},
 			"address": "Karimganj",
 			"contactNumber": "001-2345876"
@@ -3059,7 +2980,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "79",
-				"ddrName": "DDR A"
+				"ddrName": "Badarpur"
 			},
 			"address": "Badarpur",
 			"contactNumber": "001-2345876"
@@ -3098,7 +3019,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "80",
-				"ddrName": "DDR A"
+				"ddrName": "Ramkrishnanagar"
 			},
 			"address": "Ramkrishnanagar",
 			"contactNumber": "001-2345876"
@@ -3137,7 +3058,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "52",
-				"ddrName": "DDR A"
+				"ddrName": "Sibsagar"
 			},
 			"address": "Sibsagar",
 			"contactNumber": "001-2345876"
@@ -3176,7 +3097,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "53",
-				"ddrName": "DDR A"
+				"ddrName": "Nazira"
 			},
 			"address": "Nazira",
 			"contactNumber": "001-2345876"
@@ -3215,7 +3136,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "54",
-				"ddrName": "DDR A"
+				"ddrName": "Amguri"
 			},
 			"address": "Amguri",
 			"contactNumber": "001-2345876"
@@ -3254,7 +3175,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "55",
-				"ddrName": "DDR A"
+				"ddrName": "Simaluguri"
 			},
 			"address": "Simaluguri",
 			"contactNumber": "001-2345876"
@@ -3293,7 +3214,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "56",
-				"ddrName": "DDR A"
+				"ddrName": "Demow"
 			},
 			"address": "Demow",
 			"contactNumber": "001-2345876"
@@ -3332,7 +3253,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "48",
-				"ddrName": "DDR A"
+				"ddrName": "Jorhat"
 			},
 			"address": "Jorhat",
 			"contactNumber": "001-2345876"
@@ -3371,7 +3292,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "49",
-				"ddrName": "DDR A"
+				"ddrName": "Moriani"
 			},
 			"address": "Moriani",
 			"contactNumber": "001-2345876"
@@ -3410,7 +3331,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "50",
-				"ddrName": "DDR A"
+				"ddrName": "Titabar"
 			},
 			"address": "Titabar",
 			"contactNumber": "001-2345876"
@@ -3449,7 +3370,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "51",
-				"ddrName": "DDR A"
+				"ddrName": "Teok"
 			},
 			"address": "Teok",
 			"contactNumber": "001-2345876"
@@ -3488,7 +3409,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "81",
-				"ddrName": "DDR A"
+				"ddrName": "Dhemaji"
 			},
 			"address": "Dhemaji",
 			"contactNumber": "001-2345876"
@@ -3527,7 +3448,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "82",
-				"ddrName": "DDR A"
+				"ddrName": "Silapathar"
 			},
 			"address": "Silapathar",
 			"contactNumber": "001-2345876"
@@ -3566,7 +3487,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "91",
-				"ddrName": "DDR A"
+				"ddrName": "Baithalangso"
 			},
 			"address": "Baithalangso",
 			"contactNumber": "001-2345876"
@@ -3605,7 +3526,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "100",
-				"ddrName": "DDR A"
+				"ddrName": "Basugaon"
 			},
 			"address": "Basugaon",
 			"contactNumber": "001-2345876"
@@ -3644,7 +3565,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "99",
-				"ddrName": "DDR A"
+				"ddrName": "Bijni"
 			},
 			"address": "Bijni",
 			"contactNumber": "001-2345876"
@@ -3683,7 +3604,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "86",
-				"ddrName": "DDR A"
+				"ddrName": "Bokajan"
 			},
 			"address": "Bokajan",
 			"contactNumber": "001-2345876"
@@ -3722,7 +3643,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "87",
-				"ddrName": "DDR A"
+				"ddrName": "Bokolia"
 			},
 			"address": "Bokolia",
 			"contactNumber": "001-2345876"
@@ -3761,7 +3682,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "83",
-				"ddrName": "DDR A"
+				"ddrName": "Diphu"
 			},
 			"address": "Diphu",
 			"contactNumber": "001-2345876"
@@ -3800,7 +3721,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "84",
-				"ddrName": "DDR A"
+				"ddrName": "Dokmoka"
 			},
 			"address": "Dokmoka",
 			"contactNumber": "001-2345876"
@@ -3839,7 +3760,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "90",
-				"ddrName": "DDR A"
+				"ddrName": "Donkamokam"
 			},
 			"address": "Donkamokam",
 			"contactNumber": "001-2345876"
@@ -3878,7 +3799,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "104",
-				"ddrName": "DDR A"
+				"ddrName": "Fakiragram"
 			},
 			"address": "Fakiragram",
 			"contactNumber": "001-2345876"
@@ -3917,7 +3838,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "96",
-				"ddrName": "DDR A"
+				"ddrName": "Goreswar"
 			},
 			"address": "Goreswar",
 			"contactNumber": "001-2345876"
@@ -3956,7 +3877,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "103",
-				"ddrName": "DDR A"
+				"ddrName": "Gossaigaon"
 			},
 			"address": "Gossaigaon",
 			"contactNumber": "001-2345876"
@@ -3995,7 +3916,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "92",
-				"ddrName": "DDR A"
+				"ddrName": "Haflong"
 			},
 			"address": "Haflong",
 			"contactNumber": "001-2345876"
@@ -4034,7 +3955,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "89",
-				"ddrName": "DDR A"
+				"ddrName": "Hamren"
 			},
 			"address": "Hamren",
 			"contactNumber": "001-2345876"
@@ -4073,7 +3994,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "85",
-				"ddrName": "DDR A"
+				"ddrName": "Howaraghat"
 			},
 			"address": "Howaraghat",
 			"contactNumber": "001-2345876"
@@ -4112,7 +4033,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "101",
-				"ddrName": "DDR A"
+				"ddrName": "Kajalgaon"
 			},
 			"address": "Kajalgaon",
 			"contactNumber": "001-2345876"
@@ -4151,7 +4072,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "102",
-				"ddrName": "DDR A"
+				"ddrName": "Kokrajhar"
 			},
 			"address": "Kokrajhar",
 			"contactNumber": "001-2345876"
@@ -4190,7 +4111,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "88",
-				"ddrName": "DDR A"
+				"ddrName": "Langhin"
 			},
 			"address": "Langhin",
 			"contactNumber": "001-2345876"
@@ -4229,7 +4150,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "93",
-				"ddrName": "DDR A"
+				"ddrName": "Mahur"
 			},
 			"address": "Mahur",
 			"contactNumber": "001-2345876"
@@ -4268,7 +4189,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "94",
-				"ddrName": "DDR A"
+				"ddrName": "Maibong"
 			},
 			"address": "Maibong",
 			"contactNumber": "001-2345876"
@@ -4307,7 +4228,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "95",
-				"ddrName": "DDR A"
+				"ddrName": "Umrangshu"
 			},
 			"address": "Umrangshu",
 			"contactNumber": "001-2345876"
@@ -4346,7 +4267,7 @@
 				"shapeFileLocation": null,
 				"captcha": null,
 				"code": "1",
-				"ddrName": "DDR A"
+				"ddrName": "Guwahati"
 			},
 			"address": "Ganesh Mandir, Guwahati – 781006",
 			"contactNumber": "361-2540525"
