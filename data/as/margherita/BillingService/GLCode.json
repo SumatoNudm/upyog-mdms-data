@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.margherita",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.margherita"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.margherita"
+        }
+    ]
+    
+}

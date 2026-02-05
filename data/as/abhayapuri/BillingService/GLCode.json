@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.abhayapuri",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.abhayapuri"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.abhayapuri"
+        }
+    ]
+    
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.sonari",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.sonari"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.sonari"
+        }
+    ]
+    
+}

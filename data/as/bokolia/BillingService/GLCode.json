@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.bokolia",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.bokolia"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.bokolia"
+        }
+    ]
+    
+}

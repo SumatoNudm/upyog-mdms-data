@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.mangaldoi",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.mangaldoi"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.mangaldoi"
+        }
+    ]
+    
+}

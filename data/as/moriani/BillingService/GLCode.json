@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.moriani",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.moriani"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.moriani"
+        }
+    ]
+    
+}

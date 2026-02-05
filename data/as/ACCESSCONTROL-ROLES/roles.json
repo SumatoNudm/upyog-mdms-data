@@ -696,6 +696,21 @@
       "code": "SYS_INTEGRATOR_GIS",
       "name": "System Integrator GIS",
       "description": "Role for allowing system integration of GIS app with UPYOG"
+    },
+    {
+      "code": "ASSAM_SUPERUSER",
+      "name": "Super User Assam",
+      "description": "Role for access only finance upyog assam super user."
+    },
+    {
+      "code": "BUDGET_CREATE",
+      "name": "Budget creation",
+      "description": "Role for allowing creation of budget."
+    },
+    {
+      "code": "BUDGET_VIEW",
+      "name": "Budget view",
+      "description": "Role for allowing viewing of budget."
     }
   ]
 }

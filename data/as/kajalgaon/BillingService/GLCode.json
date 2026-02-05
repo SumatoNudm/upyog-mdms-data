@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.kajalgaon",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.kajalgaon"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.kajalgaon"
+        }
+    ]
+    
+}

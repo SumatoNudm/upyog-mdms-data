@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.kampur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.kampur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.kampur"
+        }
+    ]
+    
+}

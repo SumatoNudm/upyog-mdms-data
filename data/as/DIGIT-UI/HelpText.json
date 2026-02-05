@@ -1,10 +1,10 @@
 {
-    "tenantId": "pg",
+    "tenantId": "as",
     "moduleName": "DIGIT-UI",
     "HelpText": [
         {
             "PT": {
-                "propertyIdFormat": "AS-PT-xxxx-xx-xx-xxxxxx", "maxPropertyResult":10, "maxResultValidation":true
+                "propertyIdFormat": "PG-PT-xxxx-xx-xx-xxxxxx", "maxPropertyResult":10, "maxResultValidation":true
             }
         }
     ]

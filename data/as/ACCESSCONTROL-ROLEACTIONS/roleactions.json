@@ -10161,6 +10161,12 @@
       "tenantId": "as"
     },
     {
+      "rolecode": "EGF_BILL_APPROVER",
+      "actionid": 1619,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
       "rolecode": "EGF_PAYMENT_CREATOR",
       "actionid": 1613,
       "actioncode": "",
@@ -11506,6 +11512,18 @@
     },
     {
       "rolecode": "EGF_BILL_CREATOR",
+      "actionid": 1777,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1777,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EGF_BILL_APPROVER",
       "actionid": 1777,
       "actioncode": "",
       "tenantId": "as"
@@ -26051,55 +26069,55 @@
       "rolecode": "EMPLOYEE",
       "actionid": 2502,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "as"
     },
     {
       "rolecode": "PT_CEMP",
       "actionid": 2502,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "as"
     },
     {
       "rolecode": "WS_CEMP",
       "actionid": 2502,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "as"
     },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2503,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "as"
     },
     {
       "rolecode": "CITIZEN",
       "actionid": 2503,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "as"
     },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2504,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "as"
     },
     {
       "rolecode": "CITIZEN",
       "actionid": 2504,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "as"
     },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2505,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "as"
     },
     {
       "rolecode": "CITIZEN",
       "actionid": 2505,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "as"
     },
     {
       "rolecode": "SW_CEMP",
@@ -26747,6 +26765,114 @@
     {
       "rolecode": "SW_CEMP",
       "actionid": 2562,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EGF_BILL_APPROVER",
+      "actionid": 1593,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EGF_BILL_APPROVER",
+      "actionid": 2563,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EGF_BILL_CREATOR",
+      "actionid": 2563,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "ASSAM_SUPERUSER",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "ASSAM_SUPERUSER",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2564,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2564,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2565,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2566,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 2564,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 2566,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 2568,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 2569,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2568,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2569,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EGF_BILL_CREATOR",
+      "actionid": 2570,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 2571,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 2572,
       "actioncode": "",
       "tenantId": "as"
     }

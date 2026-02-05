@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.tezpur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.tezpur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.tezpur"
+        }
+    ]
+    
+}

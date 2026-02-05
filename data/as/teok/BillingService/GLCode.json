@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.teok",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.teok"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.teok"
+        }
+    ]
+    
+}

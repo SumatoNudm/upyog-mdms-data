@@ -3,1338 +3,1338 @@
   "moduleName": "tenant",
   "nationalInfo": [
     {
-      "stateCode": "Assam",
-      "stateName": "Assam",
-      "code": "as.guwahati",
-      "name": "as.guwahati",
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "as.amritsar",
+      "name": "as.amritsar",
       "active": true,
       "module": "NationalDashboard"
     },
     {
-      "stateCode": "Assam",
-      "stateName": "Assam",
-      "code": "as.hojai",
-      "name": "as.hojai",
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "as.jalandhar",
+      "name": "as.jalandhar",
       "active": true,
       "module": "NationalDashboard"
     },
     {
-      "stateCode": "Assam",
-      "stateName": "Assam",
-      "code": "as.bongaigaon",
-      "name": "as.bongaigaon",
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "as.phagwara",
+      "name": "as.phagwara",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.nawanshahr",
-      "name": "pb.nawanshahr",
+      "code": "as.nawanshahr",
+      "name": "as.nawanshahr",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.derabassi",
-      "name": "pb.derabassi",
+      "code": "as.derabassi",
+      "name": "as.derabassi",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.abohar",
-      "name": "pb.abohar",
+      "code": "as.abohar",
+      "name": "as.abohar",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.adampur",
-      "name": "pb.adampur",
+      "code": "as.adampur",
+      "name": "as.adampur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.ahmedgarh",
-      "name": "pb.ahmedgarh",
+      "code": "as.ahmedgarh",
+      "name": "as.ahmedgarh",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.ajnala",
-      "name": "pb.ajnala",
+      "code": "as.ajnala",
+      "name": "as.ajnala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.alawalpur",
-      "name": "pb.alawalpur",
+      "code": "as.alawalpur",
+      "name": "as.alawalpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.amargarh",
-      "name": "pb.amargarh",
+      "code": "as.amargarh",
+      "name": "as.amargarh",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.amloh",
-      "name": "pb.amloh",
+      "code": "as.amloh",
+      "name": "as.amloh",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.anandpursahib",
-      "name": "pb.anandpursahib",
+      "code": "as.anandpursahib",
+      "name": "as.anandpursahib",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.arniwala",
-      "name": "pb.arniwala",
+      "code": "as.arniwala",
+      "name": "as.arniwala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.badhnikalan",
-      "name": "pb.badhnikalan",
+      "code": "as.badhnikalan",
+      "name": "as.badhnikalan",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.baghapurana",
-      "name": "pb.baghapurana",
+      "code": "as.baghapurana",
+      "name": "as.baghapurana",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.balachaur",
-      "name": "pb.balachaur",
+      "code": "as.balachaur",
+      "name": "as.balachaur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.balianwali",
-      "name": "pb.balianwali",
+      "code": "as.balianwali",
+      "name": "as.balianwali",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.banga",
-      "name": "pb.banga",
+      "code": "as.banga",
+      "name": "as.banga",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.banur",
-      "name": "pb.banur",
+      "code": "as.banur",
+      "name": "as.banur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bareta",
-      "name": "pb.bareta",
+      "code": "as.bareta",
+      "name": "as.bareta",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bariwala",
-      "name": "pb.bariwala",
+      "code": "as.bariwala",
+      "name": "as.bariwala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.barnala",
-      "name": "pb.barnala",
+      "code": "as.barnala",
+      "name": "as.barnala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bassipathana",
-      "name": "pb.bassipathana",
+      "code": "as.bassipathana",
+      "name": "as.bassipathana",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.batala",
-      "name": "pb.batala",
+      "code": "as.batala",
+      "name": "as.batala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bathinda",
-      "name": "pb.bathinda",
+      "code": "as.bathinda",
+      "name": "as.bathinda",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.begowal",
-      "name": "pb.begowal",
+      "code": "as.begowal",
+      "name": "as.begowal",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhadaur",
-      "name": "pb.bhadaur",
+      "code": "as.bhadaur",
+      "name": "as.bhadaur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhadson",
-      "name": "pb.bhadson",
+      "code": "as.bhadson",
+      "name": "as.bhadson",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhagtabhai",
-      "name": "pb.bhagtabhai",
+      "code": "as.bhagtabhai",
+      "name": "as.bhagtabhai",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhairoopa",
-      "name": "pb.bhairoopa",
+      "code": "as.bhairoopa",
+      "name": "as.bhairoopa",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhawanigarh",
-      "name": "pb.bhawanigarh",
+      "code": "as.bhawanigarh",
+      "name": "as.bhawanigarh",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhikhi",
-      "name": "pb.bhikhi",
+      "code": "as.bhikhi",
+      "name": "as.bhikhi",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhikhiwind",
-      "name": "pb.bhikhiwind",
+      "code": "as.bhikhiwind",
+      "name": "as.bhikhiwind",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhogpur",
-      "name": "pb.bhogpur",
+      "code": "as.bhogpur",
+      "name": "as.bhogpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhuchomandi",
-      "name": "pb.bhuchomandi",
+      "code": "as.bhuchomandi",
+      "name": "as.bhuchomandi",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bhulath",
-      "name": "pb.bhulath",
+      "code": "as.bhulath",
+      "name": "as.bhulath",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.bilga",
-      "name": "pb.bilga",
+      "code": "as.bilga",
+      "name": "as.bilga",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.boha",
-      "name": "pb.boha",
+      "code": "as.boha",
+      "name": "as.boha",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.budhlada",
-      "name": "pb.budhlada",
+      "code": "as.budhlada",
+      "name": "as.budhlada",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.chamkaursahib",
-      "name": "pb.chamkaursahib",
+      "code": "as.chamkaursahib",
+      "name": "as.chamkaursahib",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.chaunke",
-      "name": "pb.chaunke",
+      "code": "as.chaunke",
+      "name": "as.chaunke",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.cheema",
-      "name": "pb.cheema",
+      "code": "as.cheema",
+      "name": "as.cheema",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.dasuya",
-      "name": "pb.dasuya",
+      "code": "as.dasuya",
+      "name": "as.dasuya",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.derababananak",
-      "name": "pb.derababananak",
+      "code": "as.derababananak",
+      "name": "as.derababananak",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.dhanaula",
-      "name": "pb.dhanaula",
+      "code": "as.dhanaula",
+      "name": "as.dhanaula",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.dharamkot",
-      "name": "pb.dharamkot",
+      "code": "as.dharamkot",
+      "name": "as.dharamkot",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.dhariwal",
-      "name": "pb.dhariwal",
+      "code": "as.dhariwal",
+      "name": "as.dhariwal",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.dhilwan",
-      "name": "pb.dhilwan",
+      "code": "as.dhilwan",
+      "name": "as.dhilwan",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.dhuri",
-      "name": "pb.dhuri",
+      "code": "as.dhuri",
+      "name": "as.dhuri",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.dinanagar",
-      "name": "pb.dinanagar",
+      "code": "as.dinanagar",
+      "name": "as.dinanagar",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.dirba",
-      "name": "pb.dirba",
+      "code": "as.dirba",
+      "name": "as.dirba",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.doraha",
-      "name": "pb.doraha",
+      "code": "as.doraha",
+      "name": "as.doraha",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.faridkot",
-      "name": "pb.faridkot",
+      "code": "as.faridkot",
+      "name": "as.faridkot",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.fatehgarhchurian",
-      "name": "pb.fatehgarhchurian",
+      "code": "as.fatehgarhchurian",
+      "name": "as.fatehgarhchurian",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.fatehgarhpanjtoor",
-      "name": "pb.fatehgarhpanjtoor",
+      "code": "as.fatehgarhpanjtoor",
+      "name": "as.fatehgarhpanjtoor",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.fazilka",
-      "name": "pb.fazilka",
+      "code": "as.fazilka",
+      "name": "as.fazilka",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.ferozepur",
-      "name": "pb.ferozepur",
+      "code": "as.ferozepur",
+      "name": "as.ferozepur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.garhdiwala",
-      "name": "pb.garhdiwala",
+      "code": "as.garhdiwala",
+      "name": "as.garhdiwala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.garhshankar",
-      "name": "pb.garhshankar",
+      "code": "as.garhshankar",
+      "name": "as.garhshankar",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.ghagga",
-      "name": "pb.ghagga",
+      "code": "as.ghagga",
+      "name": "as.ghagga",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.ghanaur",
-      "name": "pb.ghanaur",
+      "code": "as.ghanaur",
+      "name": "as.ghanaur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.gidderbaha",
-      "name": "pb.gidderbaha",
+      "code": "as.gidderbaha",
+      "name": "as.gidderbaha",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.goniana",
-      "name": "pb.goniana",
+      "code": "as.goniana",
+      "name": "as.goniana",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.goraya",
-      "name": "pb.goraya",
+      "code": "as.goraya",
+      "name": "as.goraya",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.gurdaspur",
-      "name": "pb.gurdaspur",
+      "code": "as.gurdaspur",
+      "name": "as.gurdaspur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.guruharsahai",
-      "name": "pb.guruharsahai",
+      "code": "as.guruharsahai",
+      "name": "as.guruharsahai",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.handiaya",
-      "name": "pb.handiaya",
+      "code": "as.handiaya",
+      "name": "as.handiaya",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.hariana",
-      "name": "pb.hariana",
+      "code": "as.hariana",
+      "name": "as.hariana",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.hoshiarpur",
-      "name": "pb.hoshiarpur",
+      "code": "as.hoshiarpur",
+      "name": "as.hoshiarpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.jagraon",
-      "name": "pb.jagraon",
+      "code": "as.jagraon",
+      "name": "as.jagraon",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.jaitu",
-      "name": "pb.jaitu",
+      "code": "as.jaitu",
+      "name": "as.jaitu",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.jalalabad",
-      "name": "pb.jalalabad",
+      "code": "as.jalalabad",
+      "name": "as.jalalabad",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.jandialaguru",
-      "name": "pb.jandialaguru",
+      "code": "as.jandialaguru",
+      "name": "as.jandialaguru",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.joga",
-      "name": "pb.joga",
+      "code": "as.joga",
+      "name": "as.joga",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kapurthala",
-      "name": "pb.kapurthala",
+      "code": "as.kapurthala",
+      "name": "as.kapurthala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kartarpur",
-      "name": "pb.kartarpur",
+      "code": "as.kartarpur",
+      "name": "as.kartarpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.khamano",
-      "name": "pb.khamano",
+      "code": "as.khamano",
+      "name": "as.khamano",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.khanauri",
-      "name": "pb.khanauri",
+      "code": "as.khanauri",
+      "name": "as.khanauri",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.khanna",
-      "name": "pb.khanna",
+      "code": "as.khanna",
+      "name": "as.khanna",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kharar",
-      "name": "pb.kharar",
+      "code": "as.kharar",
+      "name": "as.kharar",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.khemkaran",
-      "name": "pb.khemkaran",
+      "code": "as.khemkaran",
+      "name": "as.khemkaran",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kiratpur",
-      "name": "pb.kiratpur",
+      "code": "as.kiratpur",
+      "name": "as.kiratpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kotfatta",
-      "name": "pb.kotfatta",
+      "code": "as.kotfatta",
+      "name": "as.kotfatta",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kothaguru",
-      "name": "pb.kothaguru",
+      "code": "as.kothaguru",
+      "name": "as.kothaguru",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kotissekhan",
-      "name": "pb.kotissekhan",
+      "code": "as.kotissekhan",
+      "name": "as.kotissekhan",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kotkapura",
-      "name": "pb.kotkapura",
+      "code": "as.kotkapura",
+      "name": "as.kotkapura",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kotshamir",
-      "name": "pb.kotshamir",
+      "code": "as.kotshamir",
+      "name": "as.kotshamir",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.kurali",
-      "name": "pb.kurali",
+      "code": "as.kurali",
+      "name": "as.kurali",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.lalru",
-      "name": "pb.lalru",
+      "code": "as.lalru",
+      "name": "as.lalru",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.lehragaga",
-      "name": "pb.lehragaga",
+      "code": "as.lehragaga",
+      "name": "as.lehragaga",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.lehramohabbat",
-      "name": "pb.lehramohabbat",
+      "code": "as.lehramohabbat",
+      "name": "as.lehramohabbat",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.lohiankhas",
-      "name": "pb.lohiankhas",
+      "code": "as.lohiankhas",
+      "name": "as.lohiankhas",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.longowal",
-      "name": "pb.longowal",
+      "code": "as.longowal",
+      "name": "as.longowal",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.ludhiana",
-      "name": "pb.ludhiana",
+      "code": "as.ludhiana",
+      "name": "as.ludhiana",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.machhiwara",
-      "name": "pb.machhiwara",
+      "code": "as.machhiwara",
+      "name": "as.machhiwara",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mahilpur",
-      "name": "pb.mahilpur",
+      "code": "as.mahilpur",
+      "name": "as.mahilpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.majitha",
-      "name": "pb.majitha",
+      "code": "as.majitha",
+      "name": "as.majitha",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.makhu",
-      "name": "pb.makhu",
+      "code": "as.makhu",
+      "name": "as.makhu",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.malerkotla",
-      "name": "pb.malerkotla",
+      "code": "as.malerkotla",
+      "name": "as.malerkotla",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mallanwala",
-      "name": "pb.mallanwala",
+      "code": "as.mallanwala",
+      "name": "as.mallanwala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.maloud",
-      "name": "pb.maloud",
+      "code": "as.maloud",
+      "name": "as.maloud",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.malout",
-      "name": "pb.malout",
+      "code": "as.malout",
+      "name": "as.malout",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.maluka",
-      "name": "pb.maluka",
+      "code": "as.maluka",
+      "name": "as.maluka",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mamdot",
-      "name": "pb.mamdot",
+      "code": "as.mamdot",
+      "name": "as.mamdot",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mandigobindgarh",
-      "name": "pb.mandigobindgarh",
+      "code": "as.mandigobindgarh",
+      "name": "as.mandigobindgarh",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mandikalan",
-      "name": "pb.mandikalan",
+      "code": "as.mandikalan",
+      "name": "as.mandikalan",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mansa",
-      "name": "pb.mansa",
+      "code": "as.mansa",
+      "name": "as.mansa",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.maur",
-      "name": "pb.maur",
+      "code": "as.maur",
+      "name": "as.maur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mehatpur",
-      "name": "pb.mehatpur",
+      "code": "as.mehatpur",
+      "name": "as.mehatpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mehraj",
-      "name": "pb.mehraj",
+      "code": "as.mehraj",
+      "name": "as.mehraj",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.moga",
-      "name": "pb.moga",
+      "code": "as.moga",
+      "name": "as.moga",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mohali",
-      "name": "pb.mohali",
+      "code": "as.mohali",
+      "name": "as.mohali",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.moonak",
-      "name": "pb.moonak",
+      "code": "as.moonak",
+      "name": "as.moonak",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.morinda",
-      "name": "pb.morinda",
+      "code": "as.morinda",
+      "name": "as.morinda",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mudki",
-      "name": "pb.mudki",
+      "code": "as.mudki",
+      "name": "as.mudki",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mukerian",
-      "name": "pb.mukerian",
+      "code": "as.mukerian",
+      "name": "as.mukerian",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.muktsar",
-      "name": "pb.muktsar",
+      "code": "as.muktsar",
+      "name": "as.muktsar",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.mullanpur",
-      "name": "pb.mullanpur",
+      "code": "as.mullanpur",
+      "name": "as.mullanpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.nabha",
-      "name": "pb.nabha",
+      "code": "as.nabha",
+      "name": "as.nabha",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.nadala",
-      "name": "pb.nadala",
+      "code": "as.nadala",
+      "name": "as.nadala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.nakodar",
-      "name": "pb.nakodar",
+      "code": "as.nakodar",
+      "name": "as.nakodar",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.nangal",
-      "name": "pb.nangal",
+      "code": "as.nangal",
+      "name": "as.nangal",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.narotjaimalsingh",
-      "name": "pb.narotjaimalsingh",
+      "code": "as.narotjaimalsingh",
+      "name": "as.narotjaimalsingh",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.nathana",
-      "name": "pb.nathana",
+      "code": "as.nathana",
+      "name": "as.nathana",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.nayagaon",
-      "name": "pb.nayagaon",
+      "code": "as.nayagaon",
+      "name": "as.nayagaon",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.nihalsinghwala",
-      "name": "pb.nihalsinghwala",
+      "code": "as.nihalsinghwala",
+      "name": "as.nihalsinghwala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.nurmahal",
-      "name": "pb.nurmahal",
+      "code": "as.nurmahal",
+      "name": "as.nurmahal",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.pathankot",
-      "name": "pb.pathankot",
+      "code": "as.pathankot",
+      "name": "as.pathankot",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.patiala",
-      "name": "pb.patiala",
+      "code": "as.patiala",
+      "name": "as.patiala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.patran",
-      "name": "pb.patran",
+      "code": "as.patran",
+      "name": "as.patran",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.patti",
-      "name": "pb.patti",
+      "code": "as.patti",
+      "name": "as.patti",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.payal",
-      "name": "pb.payal",
+      "code": "as.payal",
+      "name": "as.payal",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.phillaur",
-      "name": "pb.phillaur",
+      "code": "as.phillaur",
+      "name": "as.phillaur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.quadian",
-      "name": "pb.quadian",
+      "code": "as.quadian",
+      "name": "as.quadian",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.rahon",
-      "name": "pb.rahon",
+      "code": "as.rahon",
+      "name": "as.rahon",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.raikot",
-      "name": "pb.raikot",
+      "code": "as.raikot",
+      "name": "as.raikot",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.rajasansi",
-      "name": "pb.rajasansi",
+      "code": "as.rajasansi",
+      "name": "as.rajasansi",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.rajpura",
-      "name": "pb.rajpura",
+      "code": "as.rajpura",
+      "name": "as.rajpura",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.raman",
-      "name": "pb.raman",
+      "code": "as.raman",
+      "name": "as.raman",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.ramdass",
-      "name": "pb.ramdass",
+      "code": "as.ramdass",
+      "name": "as.ramdass",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.rampura",
-      "name": "pb.rampura",
+      "code": "as.rampura",
+      "name": "as.rampura",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.rampuraphul",
-      "name": "pb.rampuraphul",
+      "code": "as.rampuraphul",
+      "name": "as.rampuraphul",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.rayya",
-      "name": "pb.rayya",
+      "code": "as.rayya",
+      "name": "as.rayya",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.ropar",
-      "name": "pb.ropar",
+      "code": "as.ropar",
+      "name": "as.ropar",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.sahnewal",
-      "name": "pb.sahnewal",
+      "code": "as.sahnewal",
+      "name": "as.sahnewal",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.samana",
-      "name": "pb.samana",
+      "code": "as.samana",
+      "name": "as.samana",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.samrala",
-      "name": "pb.samrala",
+      "code": "as.samrala",
+      "name": "as.samrala",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.sanaur",
-      "name": "pb.sanaur",
+      "code": "as.sanaur",
+      "name": "as.sanaur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.sangatmandi",
-      "name": "pb.sangatmandi",
+      "code": "as.sangatmandi",
+      "name": "as.sangatmandi",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.sangrur",
-      "name": "pb.sangrur",
+      "code": "as.sangrur",
+      "name": "as.sangrur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.sardulgarh",
-      "name": "pb.sardulgarh",
+      "code": "as.sardulgarh",
+      "name": "as.sardulgarh",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.shahkot",
-      "name": "pb.shahkot",
+      "code": "as.shahkot",
+      "name": "as.shahkot",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.shamchurasi",
-      "name": "pb.shamchurasi",
+      "code": "as.shamchurasi",
+      "name": "as.shamchurasi",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.sirhind",
-      "name": "pb.sirhind",
+      "code": "as.sirhind",
+      "name": "as.sirhind",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.srihargobindpur",
-      "name": "pb.srihargobindpur",
+      "code": "as.srihargobindpur",
+      "name": "as.srihargobindpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.sujanpur",
-      "name": "pb.sujanpur",
+      "code": "as.sujanpur",
+      "name": "as.sujanpur",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.sultanpurlodhi",
-      "name": "pb.sultanpurlodhi",
+      "code": "as.sultanpurlodhi",
+      "name": "as.sultanpurlodhi",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.sunam",
-      "name": "pb.sunam",
+      "code": "as.sunam",
+      "name": "as.sunam",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.talwandibhai",
-      "name": "pb.talwandibhai",
+      "code": "as.talwandibhai",
+      "name": "as.talwandibhai",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.talwandisabo",
-      "name": "pb.talwandisabo",
+      "code": "as.talwandisabo",
+      "name": "as.talwandisabo",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.talwara",
-      "name": "pb.talwara",
+      "code": "as.talwara",
+      "name": "as.talwara",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.tapa",
-      "name": "pb.tapa",
+      "code": "as.tapa",
+      "name": "as.tapa",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.tarntaran",
-      "name": "pb.tarntaran",
+      "code": "as.tarntaran",
+      "name": "as.tarntaran",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.urmartanda",
-      "name": "pb.urmartanda",
+      "code": "as.urmartanda",
+      "name": "as.urmartanda",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.zira",
-      "name": "pb.zira",
+      "code": "as.zira",
+      "name": "as.zira",
       "active": true,
       "module": "NationalDashboard"
     },
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
-      "code": "pb.zirakpur",
-      "name": "pb.zirakpur",
+      "code": "as.zirakpur",
+      "name": "as.zirakpur",
       "active": true,
       "module": "NationalDashboard"
     },

@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.haflong",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.haflong"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.haflong"
+        }
+    ]
+    
+}

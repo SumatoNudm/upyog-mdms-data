@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.goalpara",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.goalpara"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.goalpara"
+        }
+    ]
+    
+}

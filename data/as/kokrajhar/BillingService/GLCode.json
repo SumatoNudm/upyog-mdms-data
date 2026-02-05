@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.kokrajhar",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.kokrajhar"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.kokrajhar"
+        }
+    ]
+    
+}

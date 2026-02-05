@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.sootea",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.sootea"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.sootea"
+        }
+    ]
+    
+}

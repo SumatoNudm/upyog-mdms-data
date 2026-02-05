@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.northguwahati",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.northguwahati"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.northguwahati"
+        }
+    ]
+    
+}

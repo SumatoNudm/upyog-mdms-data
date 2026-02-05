@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.mahur",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.mahur"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.mahur"
+        }
+    ]
+    
+}

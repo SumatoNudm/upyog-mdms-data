@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.diphu",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.diphu"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.diphu"
+        }
+    ]
+    
+}

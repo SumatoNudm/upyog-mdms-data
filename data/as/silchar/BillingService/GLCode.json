@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.silchar",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.silchar"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.silchar"
+        }
+    ]
+    
+}

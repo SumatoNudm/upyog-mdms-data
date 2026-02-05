@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "footer": [
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "code": "pg.cityb",
+      "code": "as.cityb",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "code": "pg.cityb",
+      "code": "as.cityb",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -455,7 +455,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -503,7 +503,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -551,7 +551,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "ADVT.Unipolls",
       "receiptFooterContent": [
         {
@@ -719,7 +719,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "ADVT.Gas_Balloon_Advertisement",
       "receiptFooterContent": [
         {
@@ -755,7 +755,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "ADVT.Wall_Paint_Advertisement",
       "receiptFooterContent": [
         {
@@ -791,7 +791,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "ADVT.Light_Wala_Board",
       "receiptFooterContent": [
         {
@@ -827,7 +827,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -863,7 +863,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "as.citya",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "code": "pg.cityb",
+      "code": "as.cityb",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "code": "pg.balasore",
+      "code": "as.balasore",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {

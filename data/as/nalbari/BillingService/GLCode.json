@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.nalbari",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.nalbari"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.nalbari"
+        }
+    ]
+    
+}

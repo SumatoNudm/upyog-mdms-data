@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.naharkatia",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.naharkatia"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.naharkatia"
+        }
+    ]
+    
+}

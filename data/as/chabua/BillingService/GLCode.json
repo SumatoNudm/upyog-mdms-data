@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.chabua",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.chabua"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.chabua"
+        }
+    ]
+    
+}

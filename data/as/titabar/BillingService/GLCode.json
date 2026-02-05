@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.titabar",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.titabar"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.titabar"
+        }
+    ]
+    
+}

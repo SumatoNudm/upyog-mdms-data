@@ -3,13 +3,13 @@
   "moduleName": "tenant",
   "assessmentconfig": [
     {
-      "tenant": "as.guwahati",
+      "tenant": "as.cityb",
       "enabled": true,
       "financialyear": "2021-22",
       "isRented": true
     },
      {
-      "tenant": "as.hojai",
+      "tenant": "as.citya",
       "enabled": true,
       "financialyear": "2021-22",
       "isRented": true
