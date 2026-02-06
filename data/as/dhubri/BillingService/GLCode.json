@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.dhubri",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.dhubri"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.dhubri"
+        }
+    ]
+    
+}

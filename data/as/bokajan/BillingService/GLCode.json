@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.bokajan",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.bokajan"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.bokajan"
+        }
+    ]
+    
+}

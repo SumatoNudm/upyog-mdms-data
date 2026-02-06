@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.nazira",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.nazira"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.nazira"
+        }
+    ]
+    
+}

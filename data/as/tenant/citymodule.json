@@ -1,0 +1,1226 @@
+{
+  "tenantId": "as",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+    {
+      "module": "Finance",
+      "code": "Finance",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.dibrugarh"
+        },
+        {
+          "code": "as.bongaigaon"
+        },
+        {
+          "code": "as.dhubri"
+        },
+        {
+          "code": "as.nagaon"
+        },
+        {
+          "code": "as.barpeta"
+        },
+        {
+          "code": "as.nalbari"
+        },
+        {
+          "code": "as.sorbhog"
+        },
+        {
+          "code": "as.howly"
+        },
+        {
+          "code": "as.pathsala"
+        },
+        {
+          "code": "as.sarthebari"
+        },
+        {
+          "code": "as.barpetaroad"
+        },
+        {
+          "code": "as.patacharkuchi"
+        },
+        {
+          "code": "as.raha"
+        },
+        {
+          "code": "as.dhing"
+        },
+        {
+          "code": "as.nagaon"
+        },
+        {
+          "code": "as.kampur"
+        },
+        {
+          "code": "as.rangia"
+        },
+        {
+          "code": "as.northguwahati"
+        },
+        {
+          "code": "as.palasbari"
+        },
+        {
+          "code": "as.tihu"
+        },
+        {
+          "code": "as.morigaon"
+        },
+        {
+          "code": "as.goalpara"
+        },
+        {
+          "code": "as.lakhipurgoalpara"
+        },
+        {
+          "code": "as.abhayapuri"
+        },
+        {
+          "code": "as.udalguri"
+        },
+        {
+          "code": "as.tangla"
+        },
+        {
+          "code": "as.mangaldoi"
+        },
+        {
+          "code": "as.kharupetia"
+        },
+        {
+          "code": "as.sipajhar"
+        },
+        {
+          "code": "as.gohpur"
+        },
+        {
+          "code": "as.biswanathchariali"
+        },
+        {
+          "code": "as.sootea"
+        },
+        {
+          "code": "as.lanka"
+        },
+        {
+          "code": "as.hojai"
+        },
+        {
+          "code": "as.doboka"
+        },
+        {
+          "code": "as.lumding"
+        },
+        {
+          "code": "as.gauripur"
+        },
+        {
+          "code": "as.bilasipara"
+        },
+        {
+          "code": "as.chapar"
+        },
+        {
+          "code": "as.sapatgram"
+        },
+        {
+          "code": "as.golukganj"
+        },
+        {
+          "code": "as.naharkatia"
+        },
+        {
+          "code": "as.chabua"
+        },
+        {
+          "code": "as.tinsukia"
+        },
+        {
+          "code": "as.namrup"
+        },
+        {
+          "code": "as.doomdooma"
+        },
+        {
+          "code": "as.makum"
+        },
+        {
+          "code": "as.digboi"
+        },
+        {
+          "code": "as.margherita"
+        },
+        {
+          "code": "as.chapakhowa"
+        },
+        {
+          "code": "as.golaghat"
+        },
+        {
+          "code": "as.dergaon"
+        },
+        {
+          "code": "as.bokakhat"
+        },
+        {
+          "code": "as.sarupathar"
+        },
+        {
+          "code": "as.barpathar"
+        },
+        {
+          "code": "as.tezpur"
+        },
+        {
+          "code": "as.dhekiajuli"
+        },
+        {
+          "code": "as.rangapara"
+        },
+        {
+          "code": "as.jamugurihat"
+        },
+        {
+          "code": "as.sonari"
+        },
+        {
+          "code": "as.moran"
+        },
+        {
+          "code": "as.northlakhimpur"
+        },
+        {
+          "code": "as.bihpuria"
+        },
+        {
+          "code": "as.dhakuakhana"
+        },
+        {
+          "code": "as.narayanpur"
+        },
+        {
+          "code": "as.hailakandi"
+        },
+        {
+          "code": "as.lala"
+        },
+        {
+          "code": "as.silchar"
+        },
+        {
+          "code": "as.lakhipurcachar"
+        },
+        {
+          "code": "as.sonai"
+        },
+        {
+          "code": "as.karimganj"
+        },
+        {
+          "code": "as.badarpur"
+        },
+        {
+          "code": "as.ramkrishnanagar"
+        },
+        {
+          "code": "as.sibsagar"
+        },
+        {
+          "code": "as.nazira"
+        },
+        {
+          "code": "as.amguri"
+        },
+        {
+          "code": "as.simaluguri"
+        },
+        {
+          "code": "as.demow"
+        },
+        {
+          "code": "as.jorhat"
+        },
+        {
+          "code": "as.moriani"
+        },
+        {
+          "code": "as.titabar"
+        },
+        {
+          "code": "as.teok"
+        },
+        {
+          "code": "as.dhemaji"
+        },
+        {
+          "code": "as.silapathar"
+        },
+        {
+          "code": "as.baithalangso"
+        },
+        {
+          "code": "as.basugaon"
+        },
+        {
+          "code": "as.bijni"
+        },
+        {
+          "code": "as.bokajan"
+        },
+        {
+          "code": "as.bokolia"
+        },
+        {
+          "code": "as.diphu"
+        },
+        {
+          "code": "as.dokmoka"
+        },
+        {
+          "code": "as.donkamokam"
+        },
+        {
+          "code": "as.fakiragram"
+        },
+        {
+          "code": "as.goreswar"
+        },
+        {
+          "code": "as.gossaigaon"
+        },
+        {
+          "code": "as.haflong"
+        },
+        {
+          "code": "as.hamren"
+        },
+        {
+          "code": "as.howaraghat"
+        },
+        {
+          "code": "as.kajalgaon"
+        },
+        {
+          "code": "as.kokrajhar"
+        },
+        {
+          "code": "as.langhin"
+        },
+        {
+          "code": "as.mahur"
+        },
+        {
+          "code": "as.maibong"
+        },
+        {
+          "code": "as.umrangshu"
+        },
+        {
+          "code": "as.guwahati"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "FireNoc",
+      "code": "FireNoc",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "as.citya"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 6,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.dibrugarh"
+        },
+        {
+          "code": "as.bongaigaon"
+        },
+        {
+          "code": "as.dhubri"
+        },
+        {
+          "code": "as.nagaon"
+        },
+        {
+          "code": "as.barpeta"
+        },
+        {
+          "code": "as.nalbari"
+        },
+        {
+          "code": "as.sorbhog"
+        },
+        {
+          "code": "as.howly"
+        },
+        {
+          "code": "as.pathsala"
+        },
+        {
+          "code": "as.sarthebari"
+        },
+        {
+          "code": "as.barpetaroad"
+        },
+        {
+          "code": "as.patacharkuchi"
+        },
+        {
+          "code": "as.raha"
+        },
+        {
+          "code": "as.dhing"
+        },
+        {
+          "code": "as.nagaon"
+        },
+        {
+          "code": "as.kampur"
+        },
+        {
+          "code": "as.rangia"
+        },
+        {
+          "code": "as.northguwahati"
+        },
+        {
+          "code": "as.palasbari"
+        },
+        {
+          "code": "as.tihu"
+        },
+        {
+          "code": "as.morigaon"
+        },
+        {
+          "code": "as.goalpara"
+        },
+        {
+          "code": "as.lakhipurgoalpara"
+        },
+        {
+          "code": "as.abhayapuri"
+        },
+        {
+          "code": "as.udalguri"
+        },
+        {
+          "code": "as.tangla"
+        },
+        {
+          "code": "as.mangaldoi"
+        },
+        {
+          "code": "as.kharupetia"
+        },
+        {
+          "code": "as.sipajhar"
+        },
+        {
+          "code": "as.gohpur"
+        },
+        {
+          "code": "as.biswanathchariali"
+        },
+        {
+          "code": "as.sootea"
+        },
+        {
+          "code": "as.lanka"
+        },
+        {
+          "code": "as.hojai"
+        },
+        {
+          "code": "as.doboka"
+        },
+        {
+          "code": "as.lumding"
+        },
+        {
+          "code": "as.gauripur"
+        },
+        {
+          "code": "as.bilasipara"
+        },
+        {
+          "code": "as.chapar"
+        },
+        {
+          "code": "as.sapatgram"
+        },
+        {
+          "code": "as.golukganj"
+        },
+        {
+          "code": "as.naharkatia"
+        },
+        {
+          "code": "as.chabua"
+        },
+        {
+          "code": "as.tinsukia"
+        },
+        {
+          "code": "as.namrup"
+        },
+        {
+          "code": "as.doomdooma"
+        },
+        {
+          "code": "as.makum"
+        },
+        {
+          "code": "as.digboi"
+        },
+        {
+          "code": "as.margherita"
+        },
+        {
+          "code": "as.chapakhowa"
+        },
+        {
+          "code": "as.golaghat"
+        },
+        {
+          "code": "as.dergaon"
+        },
+        {
+          "code": "as.bokakhat"
+        },
+        {
+          "code": "as.sarupathar"
+        },
+        {
+          "code": "as.barpathar"
+        },
+        {
+          "code": "as.tezpur"
+        },
+        {
+          "code": "as.dhekiajuli"
+        },
+        {
+          "code": "as.rangapara"
+        },
+        {
+          "code": "as.jamugurihat"
+        },
+        {
+          "code": "as.sonari"
+        },
+        {
+          "code": "as.moran"
+        },
+        {
+          "code": "as.northlakhimpur"
+        },
+        {
+          "code": "as.bihpuria"
+        },
+        {
+          "code": "as.dhakuakhana"
+        },
+        {
+          "code": "as.narayanpur"
+        },
+        {
+          "code": "as.hailakandi"
+        },
+        {
+          "code": "as.lala"
+        },
+        {
+          "code": "as.silchar"
+        },
+        {
+          "code": "as.lakhipurcachar"
+        },
+        {
+          "code": "as.sonai"
+        },
+        {
+          "code": "as.karimganj"
+        },
+        {
+          "code": "as.badarpur"
+        },
+        {
+          "code": "as.ramkrishnanagar"
+        },
+        {
+          "code": "as.sibsagar"
+        },
+        {
+          "code": "as.nazira"
+        },
+        {
+          "code": "as.amguri"
+        },
+        {
+          "code": "as.simaluguri"
+        },
+        {
+          "code": "as.demow"
+        },
+        {
+          "code": "as.jorhat"
+        },
+        {
+          "code": "as.moriani"
+        },
+        {
+          "code": "as.titabar"
+        },
+        {
+          "code": "as.teok"
+        },
+        {
+          "code": "as.dhemaji"
+        },
+        {
+          "code": "as.silapathar"
+        },
+        {
+          "code": "as.baithalangso"
+        },
+        {
+          "code": "as.basugaon"
+        },
+        {
+          "code": "as.bijni"
+        },
+        {
+          "code": "as.bokajan"
+        },
+        {
+          "code": "as.bokolia"
+        },
+        {
+          "code": "as.diphu"
+        },
+        {
+          "code": "as.dokmoka"
+        },
+        {
+          "code": "as.donkamokam"
+        },
+        {
+          "code": "as.fakiragram"
+        },
+        {
+          "code": "as.goreswar"
+        },
+        {
+          "code": "as.gossaigaon"
+        },
+        {
+          "code": "as.haflong"
+        },
+        {
+          "code": "as.hamren"
+        },
+        {
+          "code": "as.howaraghat"
+        },
+        {
+          "code": "as.kajalgaon"
+        },
+        {
+          "code": "as.kokrajhar"
+        },
+        {
+          "code": "as.langhin"
+        },
+        {
+          "code": "as.mahur"
+        },
+        {
+          "code": "as.maibong"
+        },
+        {
+          "code": "as.umrangshu"
+        },
+        {
+          "code": "as.guwahati"
+        }
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": true,
+      "order": 5,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+    {
+      "module": "BillAmendment",
+      "code": "BillAmendment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+    {
+      "module": "Birth",
+      "code": "Birth",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "Death",
+      "code": "Death",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    }
+  ]
+}

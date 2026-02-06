@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.sarthebari",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.sarthebari"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.sarthebari"
+        }
+    ]
+    
+}

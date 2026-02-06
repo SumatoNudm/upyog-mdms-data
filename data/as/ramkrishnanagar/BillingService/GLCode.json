@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.ramkrishnanagar",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.ramkrishnanagar"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.ramkrishnanagar"
+        }
+    ]
+    
+}

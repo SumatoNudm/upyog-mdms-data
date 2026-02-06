@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.lumding",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.lumding"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.lumding"
+        }
+    ]
+    
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.tangla",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.tangla"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.tangla"
+        }
+    ]
+    
+}

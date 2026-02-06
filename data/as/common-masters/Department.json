@@ -1,0 +1,11 @@
+{
+  "tenantId": "as",
+  "moduleName": "common-masters",
+  "Department": [
+    {
+      "name": "ULB",
+      "code": "DEPT_ULB",
+      "active": true
+    }
+  ]
+}

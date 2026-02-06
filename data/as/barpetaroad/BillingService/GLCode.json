@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.barpetaroad",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.barpetaroad"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.barpetaroad"
+        }
+    ]
+    
+}

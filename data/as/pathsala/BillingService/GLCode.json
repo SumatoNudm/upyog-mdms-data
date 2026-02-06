@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.pathsala",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.pathsala"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.pathsala"
+        }
+    ]
+    
+}

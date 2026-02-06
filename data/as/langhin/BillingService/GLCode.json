@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.langhin",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.langhin"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.langhin"
+        }
+    ]
+    
+}

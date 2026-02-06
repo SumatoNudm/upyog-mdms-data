@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.simaluguri",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.simaluguri"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.simaluguri"
+        }
+    ]
+    
+}

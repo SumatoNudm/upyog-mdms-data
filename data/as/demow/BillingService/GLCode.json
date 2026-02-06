@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.demow",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.demow"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.demow"
+        }
+    ]
+    
+}

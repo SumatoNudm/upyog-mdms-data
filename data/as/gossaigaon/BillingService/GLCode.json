@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.gossaigaon",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.gossaigaon"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.gossaigaon"
+        }
+    ]
+    
+}

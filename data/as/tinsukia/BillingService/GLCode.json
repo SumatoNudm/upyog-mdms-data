@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.tinsukia",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.tinsukia"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.tinsukia"
+        }
+    ]
+    
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.dhekiajuli",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.dhekiajuli"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.dhekiajuli"
+        }
+    ]
+    
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.bihpuria",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.bihpuria"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.bihpuria"
+        }
+    ]
+    
+}

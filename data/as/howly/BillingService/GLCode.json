@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.howly",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.howly"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.howly"
+        }
+    ]
+    
+}
