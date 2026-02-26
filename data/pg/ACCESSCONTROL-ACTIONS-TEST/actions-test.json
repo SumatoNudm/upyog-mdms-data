@@ -13500,13 +13500,13 @@
          "code": "",
          "path": "",
          "navigationURL1": "/citizen/death-citizen/home",
-         "navigationURL": "/citizen/death/temporary",
+         "navigationURL": "/upyog-ui/citizen/death/temporary",
          "leftIcon": "DeathIcon",
          "rightIcon": "",
          "queryParams": "",
          "sidebar": "digit-ui-links",
          "sidebarURL1": "/citizen/death-citizen/home",
-         "sidebarURL": "/citizen/death/temporary"
+         "sidebarURL": "/upyog-ui/citizen/death/temporary"
       },
       {
          "id": 2428,
