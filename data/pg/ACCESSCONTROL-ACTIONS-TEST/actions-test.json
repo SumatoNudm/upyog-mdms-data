@@ -12796,7 +12796,8 @@
       {
          "id": 2374,
          "name": "Death : Home",
-         "url": "death-citizen/home",
+         "url1": "death-citizen/home",
+         "url": "death/temporary",
          "parentModule": "",
          "displayName": "Home",
          "orderNumber": 0,
