@@ -1214,8 +1214,8 @@
       ]
     },
     {
-      "module": "Death",
-      "code": "Death",
+      "module": "StateFinance",
+      "code": "StateFinance",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
       "order": 1,
@@ -1234,6 +1234,350 @@
         },
         {
           "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.gmc"
+        },
+        {
+          "code": "pg.dibrugarh"
+        },
+        {
+          "code": "pg.bongaigaon"
+        },
+        {
+          "code": "pg.dhubri"
+        },
+        {
+          "code": "pg.nagaon"
+        },
+        {
+          "code": "pg.barpeta"
+        },
+        {
+          "code": "pg.nalbari"
+        },
+        {
+          "code": "pg.sorbhog"
+        },
+        {
+          "code": "pg.howly"
+        },
+        {
+          "code": "pg.pathsala"
+        },
+        {
+          "code": "pg.sarthebari"
+        },
+        {
+          "code": "pg.barpetaroad"
+        },
+        {
+          "code": "pg.patacharkuchi"
+        },
+        {
+          "code": "pg.raha"
+        },
+        {
+          "code": "pg.dhing"
+        },
+        {
+          "code": "pg.nagaon"
+        },
+        {
+          "code": "pg.kampur"
+        },
+        {
+          "code": "pg.rangia"
+        },
+        {
+          "code": "pg.northguwahati"
+        },
+        {
+          "code": "pg.palasbari"
+        },
+        {
+          "code": "pg.tihu"
+        },
+        {
+          "code": "pg.morigaon"
+        },
+        {
+          "code": "pg.goalpara"
+        },
+        {
+          "code": "pg.lakhipurgoalpara"
+        },
+        {
+          "code": "pg.abhayapuri"
+        },
+        {
+          "code": "pg.udalguri"
+        },
+        {
+          "code": "pg.tangla"
+        },
+        {
+          "code": "pg.mangaldoi"
+        },
+        {
+          "code": "pg.kharupetia"
+        },
+        {
+          "code": "pg.sipajhar"
+        },
+        {
+          "code": "pg.pathshala"
+        },
+        {
+          "code": "pg.gohpur"
+        },
+        {
+          "code": "pg.biswanathchariali"
+        },
+        {
+          "code": "pg.sootea"
+        },
+        {
+          "code": "pg.lanka"
+        },
+        {
+          "code": "pg.hojai"
+        },
+        {
+          "code": "pg.doboka"
+        },
+        {
+          "code": "pg.lumding"
+        },
+        {
+          "code": "pg.gauripur"
+        },
+        {
+          "code": "pg.bilasipara"
+        },
+        {
+          "code": "pg.chapar"
+        },
+        {
+          "code": "pg.sapatgram"
+        },
+        {
+          "code": "pg.golukganj"
+        },
+        {
+          "code": "pg.naharkatia"
+        },
+        {
+          "code": "pg.chabua"
+        },
+        {
+          "code": "pg.tinsukia"
+        },
+        {
+          "code": "pg.namrup"
+        },
+        {
+          "code": "pg.doomdooma"
+        },
+        {
+          "code": "pg.makum"
+        },
+        {
+          "code": "pg.digboi"
+        },
+        {
+          "code": "pg.margherita"
+        },
+        {
+          "code": "pg.chapakhowa"
+        },
+        {
+          "code": "pg.golaghat"
+        },
+        {
+          "code": "pg.dergaon"
+        },
+        {
+          "code": "pg.bokakhat"
+        },
+        {
+          "code": "pg.sarupathar"
+        },
+        {
+          "code": "pg.barpathar"
+        },
+        {
+          "code": "pg.tezpur"
+        },
+        {
+          "code": "pg.dhekiajuli"
+        },
+        {
+          "code": "pg.rangapara"
+        },
+        {
+          "code": "pg.jamugurihat"
+        },
+        {
+          "code": "pg.sonari"
+        },
+        {
+          "code": "pg.moran"
+        },
+        {
+          "code": "pg.northlakhimpur"
+        },
+        {
+          "code": "pg.bihpuria"
+        },
+        {
+          "code": "pg.dhakuakhana"
+        },
+        {
+          "code": "pg.narayanpur"
+        },
+        {
+          "code": "pg.hailakandi"
+        },
+        {
+          "code": "pg.lala"
+        },
+        {
+          "code": "pg.silchar"
+        },
+        {
+          "code": "pg.lakhipurcachar"
+        },
+        {
+          "code": "pg.sonai"
+        },
+        {
+          "code": "pg.karimganj"
+        },
+        {
+          "code": "pg.badarpur"
+        },
+        {
+          "code": "pg.ramkrishnanagar"
+        },
+        {
+          "code": "pg.sibsagar"
+        },
+        {
+          "code": "pg.nazira"
+        },
+        {
+          "code": "pg.amguri"
+        },
+        {
+          "code": "pg.simaluguri"
+        },
+        {
+          "code": "pg.demow"
+        },
+        {
+          "code": "pg.jorhat"
+        },
+        {
+          "code": "pg.moriani"
+        },
+        {
+          "code": "pg.titabar"
+        },
+        {
+          "code": "pg.teok"
+        },
+        {
+          "code": "pg.dhemaji"
+        },
+        {
+          "code": "pg.silapathar"
+        },
+        {
+          "code": "pg.baithalangso"
+        },
+        {
+          "code": "pg.basugaon"
+        },
+        {
+          "code": "pg.bijni"
+        },
+        {
+          "code": "pg.bokajan"
+        },
+        {
+          "code": "pg.bokolia"
+        },
+        {
+          "code": "pg.diphu"
+        },
+        {
+          "code": "pg.dokmoka"
+        },
+        {
+          "code": "pg.donkamokam"
+        },
+        {
+          "code": "pg.fakiragram"
+        },
+        {
+          "code": "pg.goreswar"
+        },
+        {
+          "code": "pg.gossaigaon"
+        },
+        {
+          "code": "pg.haflong"
+        },
+        {
+          "code": "pg.hamren"
+        },
+        {
+          "code": "pg.howaraghat"
+        },
+        {
+          "code": "pg.kajalgaon"
+        },
+        {
+          "code": "pg.kokrajhar"
+        },
+        {
+          "code": "pg.langhin"
+        },
+        {
+          "code": "pg.mahur"
+        },
+        {
+          "code": "pg.maibong"
+        },
+        {
+          "code": "pg.umrangshu"
+        },
+        {
+          "code": "pg.guwahati"
         }
       ]
     }
