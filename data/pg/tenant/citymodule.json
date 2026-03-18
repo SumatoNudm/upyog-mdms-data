@@ -1214,8 +1214,8 @@
       ]
     },
     {
-      "module": "StateFinance",
-      "code": "StateFinance",
+      "module": "Death",
+      "code": "Death",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
       "order": 1,
@@ -1238,10 +1238,10 @@
       ]
     },
     {
-      "module": "HRMS",
-      "code": "HRMS",
+      "module": "StateFinance",
+      "code": "StateFinance",
       "active": true,
-      "order": 2,
+      "order": 7,
       "tenants": [
         {
           "code": "pg.citya"
