@@ -3402,7 +3402,7 @@
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bills Accounting.Expense Bill"
+         "path": "Finance.Transactions.Bill Register Entry.Expense Bill"
       },
       {
          "id": 1610,
@@ -3415,7 +3415,7 @@
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bills Accounting.Create Voucher",
+         "path": "Finance.Transactions.Bill Register Entry.Create Voucher",
          "navigationURL": "services/EGF/voucher/billVoucher-newForm.action"
       },
       {
@@ -3541,7 +3541,7 @@
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bills Accounting.View Bills",
+         "path": "Finance.Transactions.Bill Register Entry.View Bills",
          "navigationURL": "services/EGF/bill/billRegisterSearch-newform.action"
       },
       {
@@ -5180,7 +5180,7 @@
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bills Accounting.Contractor Bill"
+         "path": "Finance.Transactions.Bill Register Entry.Contractor Bill"
       },
       {
          "id": 1745,
@@ -5194,7 +5194,7 @@
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bills Accounting.Supplier Bill"
+         "path": "Finance.Transactions.Bill Register Entry.Supplier Bill"
       },
       {
          "id": 1746,
@@ -15348,7 +15348,7 @@
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bills Accounting.Bill Approve",
+         "path": "Finance.Transactions.Bill Register Entry.Bill Approve",
          "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
       },
       {
