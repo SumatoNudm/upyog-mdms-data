@@ -3396,7 +3396,7 @@
          "navigationURL": "services/EGF/expensebill/newform",
          "url": "url",
          "parentModule": "EGF",
-         "displayName": "Expense Bill",
+         "displayName": "Expense Bill test",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceBill",
@@ -15408,7 +15408,7 @@
          "serviceCode": "budget",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Budget.Function Wise Budget Head",
+         "path": "Budget.Function Wise Budget Head",
          "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
       },
       {
@@ -15423,7 +15423,7 @@
          "serviceCode": "budget",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Budget.Budget Head",
+         "path": "Budget.Budget Head",
          "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
       },
       {
@@ -15438,7 +15438,7 @@
          "serviceCode": "budget",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Budget.Budget Register.Create Budget Register"
+         "path": "Budget.Budget Register.Create Budget Register"
       },
       {
          "id": 2571,
@@ -15452,7 +15452,7 @@
          "serviceCode": "budget",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Budget.Budget Register.View Budget Register"
+         "path": "Budget.Budget Register.View Budget Register"
       },
       {
          "id": 2572,
