@@ -3396,7 +3396,7 @@
          "navigationURL": "services/EGF/expensebill/newform",
          "url": "url",
          "parentModule": "EGF",
-         "displayName": "Expense Bill test",
+         "displayName": "Expense Bill",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceBill",
