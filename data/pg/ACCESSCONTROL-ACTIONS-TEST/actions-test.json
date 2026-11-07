@@ -15472,6 +15472,20 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Finance Inbox"
+      },
+      {
+         "id": 2573,
+         "name": "User Defined Codes-Bulk-Upload",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Bulk Upload Subledger Masters",
+         "orderNumber": 7,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Subledger Configuration.Bulk Upload Other Masters",
+         "navigationURL": "services/EGF/accountentity/uploadAccountEntity"
       }
    ]
 }
